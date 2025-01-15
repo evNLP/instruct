@@ -180,7 +180,7 @@ El fine-tuning de GPT-2 mostró que:
 | **Tarea**               | Sumas Aritméticas               | Generación de Código en Java    |
 | **Método**              | LoRA                            | Autoregresivo e Instruido       |
 | **Dataset**             | 600 ejemplos                   | 20,000 ejemplos (mejorado)      |
-| **Precisión Inicial**   | ~90% (Errores <1 unidad)        | 55.1% (Instrucciones)           |
+| **Precisión Inicial**   | -        | 55.1% (Instrucciones)           |
 | **Precisión Mejorada**  | -                               | 93.1%                           |
 
 Ambos modelos destacan en sus respectivas tareas y muestran cómo las técnicas modernas de ajuste fino pueden aprovechar modelos preentrenados para resolver problemas específicos.
