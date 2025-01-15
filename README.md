@@ -1,4 +1,4 @@
-# README: Fine-Tuning Language Models with Mistral and GPT-2
+# Fine-Tuning Language Models with Mistral and GPT-2
 
 ## **Parte 1: Fine-Tuning con Mistral (Modelo Causal Instruido)**
 
