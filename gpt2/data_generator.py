@@ -1,194 +1,34 @@
 import random
- 
-
-words = [
-    "hola",
-    "buenos días",
-    "buenas noches",
-    "¿cómo estás?",
-    "saludos",
-    "bienvenido",
-    "adiós",
-    "hasta luego",
-    "gracias",
-    "por favor",
-    "perdón",
-    "lo siento",
-    "sí",
-    "no",
-    "quizás",
-    "está bien",
-    "de acuerdo",
-    "muchas gracias",
-    "nos vemos",
-    "cuidado",
-    "bien hecho",
-    "excelente",
-    "genial",
-    "asombroso",
-    "fantástico",
-    "impresionante",
-    "increíble",
-    "perfecto",
-    "maravilloso",
-    "magnífico",
-    "espectacular",
-    "estupendo",
-    "notable",
-    "fabuloso",
-    "sensacional",
-    "extraordinario",
-    "brillante",
-    "admirable",
-    "formidable",
-    "colosal",
-    "fenomenal",
-    "prodigioso",
-    "sobresaliente",
-    "radiante",
-    "resplandeciente",
-    "espléndido",
-    "hermoso",
-    "atractivo",
-    "encantador",
-    "fascinante",
-    "impresivo",
-    "precioso",
-    "sublime",
-    "alucinante",
-    "magnánimo",
-    "majestuoso",
-    "sorprendente",
-    "valioso",
-    "estimable",
-    "enriquecedor",
-    "intelectual",
-    "sabio",
-    "elocuente",
-    "razonable",
-    "prudente",
-    "perspicaz",
-    "inteligente",
-    "erudito",
-    "virtuoso",
-    "noble",
-    "gentil",
-    "amable",
-    "cortés",
-    "educado",
-    "considerado",
-    "caritativo",
-    "generoso",
-    "altruista",
-    "solidario",
-    "humilde",
-    "modesto",
-    "paciente",
-    "valiente",
-    "resiliente",
-    "tenaz",
-    "determinado",
-    "firme",
-    "persistente",
-    "resuelto",
-    "dedicado",
-    "comprometido",
-    "honesto",
-    "transparente",
-    "leal",
-    "fiel",
-    "justo",
-    "imparcial",
-    "responsable",
-    "ético",
-    "íntegro",
-    "moral",
-    "humanitario",
-    "bondadoso",
-    "compasivo",
-    "solidario",
-    "empático",
-    "sensible",
-    "considerado",
-    "respetuoso",
-    "tolerante",
-    "comprensivo",
-    "amigable",
-    "cálido",
-    "afable",
-    "cordial",
-    "acogedor",
-    "hospitalario",
-    "familiar",
-    "cercano",
-    "compañero",
-    "amistoso",
-    "simpático",
-    "divertido",
-    "alegre",
-    "optimista",
-    "entusiasta",
-    "vibrante",
-    "dinámico",
-    "activo",
-    "vital",
-    "energético",
-    "intenso",
-    "apasionado",
-    "ferviente",
-    "ardiente",
-    "emocionante",
-    "emotivo",
-    "sensible",
-    "conmovedor",
-    "profundo",
-    "significativo",
-    "trascendental",
-    "importante",
-    "relevante",
-    "esencial",
-    "fundamental",
-    "crucial",
-    "decisivo",
-    "determinante",
-    "clave",
-    "vital",
-    "indispensable",
-    "necesario",
-    "urgente",
-    "imperativo",
-    "obligatorio",
-    "ineludible",
-    "inevitable",
-    "irremediable",
-    "fatal"
-]
-
-template = '// A function that prints {word}\npublic void {method_name}() {{\n\tSystem.out.println("{word}");\n}} </s>\n'
-
 import unicodedata
+import nltk
+from nltk.corpus import words
 
-def generar_nombre_metodo(word):
-    norm_word = ''.join(
-        c for c in unicodedata.normalize('NFD', word) if unicodedata.category(c) != 'Mn'
+nltk.download('words')
+
+palabras = words.words()
+
+template = 'public void {method_name}() {{ System.out.println("{word}"); }}'
+
+def generar_nombre_metodo(palabra):
+    palabra_sin_tilde = ''.join(
+        c for c in unicodedata.normalize('NFD', palabra) if unicodedata.category(c) != 'Mn'
     )
-    camel_case_title = norm_word.title().replace(" ", "")
-    return camel_case_title[0].lower() + camel_case_title[1:]
+    return ''.join(c for c in palabra_sin_tilde if c.isalnum()).lower()
 
-output_file = "mock_data_instruct.jsonl"
-num_samples = 1000
- 
+output_file = "mock_data.jsonl"
+num_samples = 10000
+
 with open(output_file, "w", encoding="utf-8") as file:
     for _ in range(num_samples):
-        word = random.choice(words).capitalize()
+        palabra = random.choice(palabras)
         prob = random.random()
         if prob > 0.8:
-            len_words = random.randint(2, 5)
-            selected_words = random.sample(words, len_words)
-            word = " ".join([word.capitalize() for word in selected_words])
+            len_palabras = random.randint(2, 5)
+            palabras_seleccionadas = random.sample(palabras, len_palabras)
+            palabra = " ".join(palabras_seleccionadas)
 
-        metodo = generar_nombre_metodo(word)
-        linea = template.format(word=word, method_name=metodo)
+        metodo = generar_nombre_metodo(palabra)
+        linea = template.format(word=palabra, method_name=metodo)
         file.write(linea + "\n")
- 
+
 print(f"Archivo '{output_file}' generado con {num_samples} muestras.")
