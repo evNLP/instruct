@@ -1,0 +1,5000 @@
+// A function that prints Buenos días
+public void buenosDias() {
+	System.out.println("Buenos días");
+} </s>
+
+// A function that prints Educado
+public void educado() {
+	System.out.println("Educado");
+} </s>
+
+// A function that prints Importante
+public void importante() {
+	System.out.println("Importante");
+} </s>
+
+// A function that prints Energético Amistoso Bien hecho Responsable Buenos días
+public void energeticoAmistosoBienHechoResponsableBuenosDias() {
+	System.out.println("Energético Amistoso Bien hecho Responsable Buenos días");
+} </s>
+
+// A function that prints Hermoso Moral Generoso Solidario Nos vemos
+public void hermosoMoralGenerosoSolidarioNosVemos() {
+	System.out.println("Hermoso Moral Generoso Solidario Nos vemos");
+} </s>
+
+// A function that prints Hasta luego
+public void hastaLuego() {
+	System.out.println("Hasta luego");
+} </s>
+
+// A function that prints Leal
+public void leal() {
+	System.out.println("Leal");
+} </s>
+
+// A function that prints Cálido
+public void calido() {
+	System.out.println("Cálido");
+} </s>
+
+// A function that prints Alegre
+public void alegre() {
+	System.out.println("Alegre");
+} </s>
+
+// A function that prints No
+public void no() {
+	System.out.println("No");
+} </s>
+
+// A function that prints Emotivo
+public void emotivo() {
+	System.out.println("Emotivo");
+} </s>
+
+// A function that prints Solidario
+public void solidario() {
+	System.out.println("Solidario");
+} </s>
+
+// A function that prints ¿cómo estás?
+public void ¿ComoEstas?() {
+	System.out.println("¿cómo estás?");
+} </s>
+
+// A function that prints Fundamental Activo
+public void fundamentalActivo() {
+	System.out.println("Fundamental Activo");
+} </s>
+
+// A function that prints Fantástico
+public void fantastico() {
+	System.out.println("Fantástico");
+} </s>
+
+// A function that prints Familiar
+public void familiar() {
+	System.out.println("Familiar");
+} </s>
+
+// A function that prints Inevitable
+public void inevitable() {
+	System.out.println("Inevitable");
+} </s>
+
+// A function that prints Empático
+public void empatico() {
+	System.out.println("Empático");
+} </s>
+
+// A function that prints Dedicado
+public void dedicado() {
+	System.out.println("Dedicado");
+} </s>
+
+// A function that prints Urgente
+public void urgente() {
+	System.out.println("Urgente");
+} </s>
+
+// A function that prints Erudito
+public void erudito() {
+	System.out.println("Erudito");
+} </s>
+
+// A function that prints Sobresaliente Modesto Solidario Hola
+public void sobresalienteModestoSolidarioHola() {
+	System.out.println("Sobresaliente Modesto Solidario Hola");
+} </s>
+
+// A function that prints Familiar
+public void familiar() {
+	System.out.println("Familiar");
+} </s>
+
+// A function that prints Dedicado
+public void dedicado() {
+	System.out.println("Dedicado");
+} </s>
+
+// A function that prints Compasivo
+public void compasivo() {
+	System.out.println("Compasivo");
+} </s>
+
+// A function that prints Honesto
+public void honesto() {
+	System.out.println("Honesto");
+} </s>
+
+// A function that prints Inevitable Relevante Nos vemos
+public void inevitableRelevanteNosVemos() {
+	System.out.println("Inevitable Relevante Nos vemos");
+} </s>
+
+// A function that prints Responsable
+public void responsable() {
+	System.out.println("Responsable");
+} </s>
+
+// A function that prints Prudente
+public void prudente() {
+	System.out.println("Prudente");
+} </s>
+
+// A function that prints Atractivo Dedicado Cálido Amigable Amistoso
+public void atractivoDedicadoCalidoAmigableAmistoso() {
+	System.out.println("Atractivo Dedicado Cálido Amigable Amistoso");
+} </s>
+
+// A function that prints Tolerante
+public void tolerante() {
+	System.out.println("Tolerante");
+} </s>
+
+// A function that prints Tolerante
+public void tolerante() {
+	System.out.println("Tolerante");
+} </s>
+
+// A function that prints Considerado
+public void considerado() {
+	System.out.println("Considerado");
+} </s>
+
+// A function that prints Justo
+public void justo() {
+	System.out.println("Justo");
+} </s>
+
+// A function that prints Irremediable
+public void irremediable() {
+	System.out.println("Irremediable");
+} </s>
+
+// A function that prints Hospitalario
+public void hospitalario() {
+	System.out.println("Hospitalario");
+} </s>
+
+// A function that prints Admirable
+public void admirable() {
+	System.out.println("Admirable");
+} </s>
+
+// A function that prints Determinante
+public void determinante() {
+	System.out.println("Determinante");
+} </s>
+
+// A function that prints Urgente
+public void urgente() {
+	System.out.println("Urgente");
+} </s>
+
+// A function that prints Necesario
+public void necesario() {
+	System.out.println("Necesario");
+} </s>
+
+// A function that prints Clave
+public void clave() {
+	System.out.println("Clave");
+} </s>
+
+// A function that prints Fatal Generoso Cortés Formidable Intelectual
+public void fatalGenerosoCortesFormidableIntelectual() {
+	System.out.println("Fatal Generoso Cortés Formidable Intelectual");
+} </s>
+
+// A function that prints Bondadoso Gracias Excelente Respetuoso Considerado
+public void bondadosoGraciasExcelenteRespetuosoConsiderado() {
+	System.out.println("Bondadoso Gracias Excelente Respetuoso Considerado");
+} </s>
+
+// A function that prints Intenso
+public void intenso() {
+	System.out.println("Intenso");
+} </s>
+
+// A function that prints Ineludible
+public void ineludible() {
+	System.out.println("Ineludible");
+} </s>
+
+// A function that prints Leal
+public void leal() {
+	System.out.println("Leal");
+} </s>
+
+// A function that prints Impresionante Atractivo Imperativo Esencial Admirable
+public void impresionanteAtractivoImperativoEsencialAdmirable() {
+	System.out.println("Impresionante Atractivo Imperativo Esencial Admirable");
+} </s>
+
+// A function that prints Tenaz
+public void tenaz() {
+	System.out.println("Tenaz");
+} </s>
+
+// A function that prints Sensible Fantástico Afable Radiante
+public void sensibleFantasticoAfableRadiante() {
+	System.out.println("Sensible Fantástico Afable Radiante");
+} </s>
+
+// A function that prints Resuelto
+public void resuelto() {
+	System.out.println("Resuelto");
+} </s>
+
+// A function that prints Bien hecho Sí Obligatorio
+public void bienHechoSiObligatorio() {
+	System.out.println("Bien hecho Sí Obligatorio");
+} </s>
+
+// A function that prints Erudito
+public void erudito() {
+	System.out.println("Erudito");
+} </s>
+
+// A function that prints Humilde
+public void humilde() {
+	System.out.println("Humilde");
+} </s>
+
+// A function that prints Inteligente
+public void inteligente() {
+	System.out.println("Inteligente");
+} </s>
+
+// A function that prints Fatal
+public void fatal() {
+	System.out.println("Fatal");
+} </s>
+
+// A function that prints Encantador
+public void encantador() {
+	System.out.println("Encantador");
+} </s>
+
+// A function that prints Decisivo
+public void decisivo() {
+	System.out.println("Decisivo");
+} </s>
+
+// A function that prints Empático
+public void empatico() {
+	System.out.println("Empático");
+} </s>
+
+// A function that prints Ineludible
+public void ineludible() {
+	System.out.println("Ineludible");
+} </s>
+
+// A function that prints Genial
+public void genial() {
+	System.out.println("Genial");
+} </s>
+
+// A function that prints Estupendo
+public void estupendo() {
+	System.out.println("Estupendo");
+} </s>
+
+// A function that prints Profundo
+public void profundo() {
+	System.out.println("Profundo");
+} </s>
+
+// A function that prints Magnánimo Tolerante Notable Ético
+public void magnanimoToleranteNotableEtico() {
+	System.out.println("Magnánimo Tolerante Notable Ético");
+} </s>
+
+// A function that prints Transparente
+public void transparente() {
+	System.out.println("Transparente");
+} </s>
+
+// A function that prints Activo
+public void activo() {
+	System.out.println("Activo");
+} </s>
+
+// A function that prints Tenaz
+public void tenaz() {
+	System.out.println("Tenaz");
+} </s>
+
+// A function that prints Tolerante
+public void tolerante() {
+	System.out.println("Tolerante");
+} </s>
+
+// A function that prints Encantador
+public void encantador() {
+	System.out.println("Encantador");
+} </s>
+
+// A function that prints Considerado
+public void considerado() {
+	System.out.println("Considerado");
+} </s>
+
+// A function that prints Erudito
+public void erudito() {
+	System.out.println("Erudito");
+} </s>
+
+// A function that prints Importante
+public void importante() {
+	System.out.println("Importante");
+} </s>
+
+// A function that prints Alegre
+public void alegre() {
+	System.out.println("Alegre");
+} </s>
+
+// A function that prints Paciente
+public void paciente() {
+	System.out.println("Paciente");
+} </s>
+
+// A function that prints Activo Paciente
+public void activoPaciente() {
+	System.out.println("Activo Paciente");
+} </s>
+
+// A function that prints Energético Ardiente Intelectual No
+public void energeticoArdienteIntelectualNo() {
+	System.out.println("Energético Ardiente Intelectual No");
+} </s>
+
+// A function that prints Impresivo Afable Excelente Caritativo Colosal
+public void impresivoAfableExcelenteCaritativoColosal() {
+	System.out.println("Impresivo Afable Excelente Caritativo Colosal");
+} </s>
+
+// A function that prints Persistente Modesto Dedicado
+public void persistenteModestoDedicado() {
+	System.out.println("Persistente Modesto Dedicado");
+} </s>
+
+// A function that prints Decisivo
+public void decisivo() {
+	System.out.println("Decisivo");
+} </s>
+
+// A function that prints Colosal Empático
+public void colosalEmpatico() {
+	System.out.println("Colosal Empático");
+} </s>
+
+// A function that prints Colosal
+public void colosal() {
+	System.out.println("Colosal");
+} </s>
+
+// A function that prints Emocionante
+public void emocionante() {
+	System.out.println("Emocionante");
+} </s>
+
+// A function that prints Brillante
+public void brillante() {
+	System.out.println("Brillante");
+} </s>
+
+// A function that prints Cordial
+public void cordial() {
+	System.out.println("Cordial");
+} </s>
+
+// A function that prints Dinámico
+public void dinamico() {
+	System.out.println("Dinámico");
+} </s>
+
+// A function that prints Afable
+public void afable() {
+	System.out.println("Afable");
+} </s>
+
+// A function that prints Considerado Alegre Hermoso
+public void consideradoAlegreHermoso() {
+	System.out.println("Considerado Alegre Hermoso");
+} </s>
+
+// A function that prints Fundamental Elocuente Respetuoso
+public void fundamentalElocuenteRespetuoso() {
+	System.out.println("Fundamental Elocuente Respetuoso");
+} </s>
+
+// A function that prints Sí
+public void si() {
+	System.out.println("Sí");
+} </s>
+
+// A function that prints Empático
+public void empatico() {
+	System.out.println("Empático");
+} </s>
+
+// A function that prints Ético
+public void etico() {
+	System.out.println("Ético");
+} </s>
+
+// A function that prints Amigable
+public void amigable() {
+	System.out.println("Amigable");
+} </s>
+
+// A function that prints Sensible
+public void sensible() {
+	System.out.println("Sensible");
+} </s>
+
+// A function that prints Virtuoso
+public void virtuoso() {
+	System.out.println("Virtuoso");
+} </s>
+
+// A function that prints Cuidado
+public void cuidado() {
+	System.out.println("Cuidado");
+} </s>
+
+// A function that prints Sí
+public void si() {
+	System.out.println("Sí");
+} </s>
+
+// A function that prints Emotivo
+public void emotivo() {
+	System.out.println("Emotivo");
+} </s>
+
+// A function that prints Bondadoso
+public void bondadoso() {
+	System.out.println("Bondadoso");
+} </s>
+
+// A function that prints Humilde
+public void humilde() {
+	System.out.println("Humilde");
+} </s>
+
+// A function that prints Familiar
+public void familiar() {
+	System.out.println("Familiar");
+} </s>
+
+// A function that prints Genial
+public void genial() {
+	System.out.println("Genial");
+} </s>
+
+// A function that prints Bien hecho
+public void bienHecho() {
+	System.out.println("Bien hecho");
+} </s>
+
+// A function that prints Simpático Fatal Amable
+public void simpaticoFatalAmable() {
+	System.out.println("Simpático Fatal Amable");
+} </s>
+
+// A function that prints Notable
+public void notable() {
+	System.out.println("Notable");
+} </s>
+
+// A function that prints Estimable
+public void estimable() {
+	System.out.println("Estimable");
+} </s>
+
+// A function that prints Emotivo
+public void emotivo() {
+	System.out.println("Emotivo");
+} </s>
+
+// A function that prints Emocionante
+public void emocionante() {
+	System.out.println("Emocionante");
+} </s>
+
+// A function that prints Significativo
+public void significativo() {
+	System.out.println("Significativo");
+} </s>
+
+// A function that prints Noble
+public void noble() {
+	System.out.println("Noble");
+} </s>
+
+// A function that prints Conmovedor
+public void conmovedor() {
+	System.out.println("Conmovedor");
+} </s>
+
+// A function that prints Amistoso
+public void amistoso() {
+	System.out.println("Amistoso");
+} </s>
+
+// A function that prints Honesto
+public void honesto() {
+	System.out.println("Honesto");
+} </s>
+
+// A function that prints Resplandeciente
+public void resplandeciente() {
+	System.out.println("Resplandeciente");
+} </s>
+
+// A function that prints Emocionante
+public void emocionante() {
+	System.out.println("Emocionante");
+} </s>
+
+// A function that prints Perspicaz
+public void perspicaz() {
+	System.out.println("Perspicaz");
+} </s>
+
+// A function that prints Amigable Impresivo
+public void amigableImpresivo() {
+	System.out.println("Amigable Impresivo");
+} </s>
+
+// A function that prints Hasta luego
+public void hastaLuego() {
+	System.out.println("Hasta luego");
+} </s>
+
+// A function that prints Humanitario
+public void humanitario() {
+	System.out.println("Humanitario");
+} </s>
+
+// A function that prints Determinante Vital Gracias Sabio Impresivo
+public void determinanteVitalGraciasSabioImpresivo() {
+	System.out.println("Determinante Vital Gracias Sabio Impresivo");
+} </s>
+
+// A function that prints Amable
+public void amable() {
+	System.out.println("Amable");
+} </s>
+
+// A function that prints Imparcial
+public void imparcial() {
+	System.out.println("Imparcial");
+} </s>
+
+// A function that prints Por favor
+public void porFavor() {
+	System.out.println("Por favor");
+} </s>
+
+// A function that prints Buenos días Magnánimo
+public void buenosDiasMagnanimo() {
+	System.out.println("Buenos días Magnánimo");
+} </s>
+
+// A function that prints Comprensivo
+public void comprensivo() {
+	System.out.println("Comprensivo");
+} </s>
+
+// A function that prints Amigable
+public void amigable() {
+	System.out.println("Amigable");
+} </s>
+
+// A function that prints Educado
+public void educado() {
+	System.out.println("Educado");
+} </s>
+
+// A function that prints Hasta luego
+public void hastaLuego() {
+	System.out.println("Hasta luego");
+} </s>
+
+// A function that prints Dinámico
+public void dinamico() {
+	System.out.println("Dinámico");
+} </s>
+
+// A function that prints Educado Prodigioso
+public void educadoProdigioso() {
+	System.out.println("Educado Prodigioso");
+} </s>
+
+// A function that prints Amistoso
+public void amistoso() {
+	System.out.println("Amistoso");
+} </s>
+
+// A function that prints Imparcial
+public void imparcial() {
+	System.out.println("Imparcial");
+} </s>
+
+// A function that prints Sensacional
+public void sensacional() {
+	System.out.println("Sensacional");
+} </s>
+
+// A function that prints Adiós
+public void adios() {
+	System.out.println("Adiós");
+} </s>
+
+// A function that prints Espectacular
+public void espectacular() {
+	System.out.println("Espectacular");
+} </s>
+
+// A function that prints Enriquecedor
+public void enriquecedor() {
+	System.out.println("Enriquecedor");
+} </s>
+
+// A function that prints Significativo
+public void significativo() {
+	System.out.println("Significativo");
+} </s>
+
+// A function that prints Excelente Bien hecho
+public void excelenteBienHecho() {
+	System.out.println("Excelente Bien hecho");
+} </s>
+
+// A function that prints De acuerdo
+public void deAcuerdo() {
+	System.out.println("De acuerdo");
+} </s>
+
+// A function that prints Emocionante
+public void emocionante() {
+	System.out.println("Emocionante");
+} </s>
+
+// A function that prints Buenas noches
+public void buenasNoches() {
+	System.out.println("Buenas noches");
+} </s>
+
+// A function that prints Solidario Precioso Altruista
+public void solidarioPreciosoAltruista() {
+	System.out.println("Solidario Precioso Altruista");
+} </s>
+
+// A function that prints Increíble
+public void increible() {
+	System.out.println("Increíble");
+} </s>
+
+// A function that prints Sorprendente
+public void sorprendente() {
+	System.out.println("Sorprendente");
+} </s>
+
+// A function that prints Magnánimo
+public void magnanimo() {
+	System.out.println("Magnánimo");
+} </s>
+
+// A function that prints Fabuloso Honesto
+public void fabulosoHonesto() {
+	System.out.println("Fabuloso Honesto");
+} </s>
+
+// A function that prints Erudito
+public void erudito() {
+	System.out.println("Erudito");
+} </s>
+
+// A function that prints Bondadoso
+public void bondadoso() {
+	System.out.println("Bondadoso");
+} </s>
+
+// A function that prints Hola
+public void hola() {
+	System.out.println("Hola");
+} </s>
+
+// A function that prints Radiante Prodigioso Altruista Notable Hermoso
+public void radianteProdigiosoAltruistaNotableHermoso() {
+	System.out.println("Radiante Prodigioso Altruista Notable Hermoso");
+} </s>
+
+// A function that prints Determinado
+public void determinado() {
+	System.out.println("Determinado");
+} </s>
+
+// A function that prints Atractivo Tolerante Sensible Magnífico
+public void atractivoToleranteSensibleMagnifico() {
+	System.out.println("Atractivo Tolerante Sensible Magnífico");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Conmovedor
+public void conmovedor() {
+	System.out.println("Conmovedor");
+} </s>
+
+// A function that prints Tenaz
+public void tenaz() {
+	System.out.println("Tenaz");
+} </s>
+
+// A function that prints Irremediable
+public void irremediable() {
+	System.out.println("Irremediable");
+} </s>
+
+// A function that prints Colosal
+public void colosal() {
+	System.out.println("Colosal");
+} </s>
+
+// A function that prints Bien hecho
+public void bienHecho() {
+	System.out.println("Bien hecho");
+} </s>
+
+// A function that prints Fundamental
+public void fundamental() {
+	System.out.println("Fundamental");
+} </s>
+
+// A function that prints Acogedor
+public void acogedor() {
+	System.out.println("Acogedor");
+} </s>
+
+// A function that prints Educado
+public void educado() {
+	System.out.println("Educado");
+} </s>
+
+// A function that prints Muchas gracias
+public void muchasGracias() {
+	System.out.println("Muchas gracias");
+} </s>
+
+// A function that prints Apasionado
+public void apasionado() {
+	System.out.println("Apasionado");
+} </s>
+
+// A function that prints Divertido
+public void divertido() {
+	System.out.println("Divertido");
+} </s>
+
+// A function that prints Emotivo
+public void emotivo() {
+	System.out.println("Emotivo");
+} </s>
+
+// A function that prints Solidario
+public void solidario() {
+	System.out.println("Solidario");
+} </s>
+
+// A function that prints Fatal
+public void fatal() {
+	System.out.println("Fatal");
+} </s>
+
+// A function that prints Majestuoso
+public void majestuoso() {
+	System.out.println("Majestuoso");
+} </s>
+
+// A function that prints Prodigioso
+public void prodigioso() {
+	System.out.println("Prodigioso");
+} </s>
+
+// A function that prints Moral
+public void moral() {
+	System.out.println("Moral");
+} </s>
+
+// A function that prints Brillante
+public void brillante() {
+	System.out.println("Brillante");
+} </s>
+
+// A function that prints Ferviente Irremediable Colosal Valiente
+public void fervienteIrremediableColosalValiente() {
+	System.out.println("Ferviente Irremediable Colosal Valiente");
+} </s>
+
+// A function that prints Hola Humilde Energético Inteligente
+public void holaHumildeEnergeticoInteligente() {
+	System.out.println("Hola Humilde Energético Inteligente");
+} </s>
+
+// A function that prints Estimable Sobresaliente Ético Sensible Fenomenal
+public void estimableSobresalienteEticoSensibleFenomenal() {
+	System.out.println("Estimable Sobresaliente Ético Sensible Fenomenal");
+} </s>
+
+// A function that prints Sensacional
+public void sensacional() {
+	System.out.println("Sensacional");
+} </s>
+
+// A function that prints Extraordinario Alucinante Esencial Optimista Persistente
+public void extraordinarioAlucinanteEsencialOptimistaPersistente() {
+	System.out.println("Extraordinario Alucinante Esencial Optimista Persistente");
+} </s>
+
+// A function that prints Compañero
+public void companero() {
+	System.out.println("Compañero");
+} </s>
+
+// A function that prints Buenos días
+public void buenosDias() {
+	System.out.println("Buenos días");
+} </s>
+
+// A function that prints Valioso
+public void valioso() {
+	System.out.println("Valioso");
+} </s>
+
+// A function that prints Inevitable
+public void inevitable() {
+	System.out.println("Inevitable");
+} </s>
+
+// A function that prints Esencial Solidario Divertido
+public void esencialSolidarioDivertido() {
+	System.out.println("Esencial Solidario Divertido");
+} </s>
+
+// A function that prints Lo siento
+public void loSiento() {
+	System.out.println("Lo siento");
+} </s>
+
+// A function that prints Impresionante Compañero ¿cómo estás?
+public void impresionanteCompanero¿ComoEstas?() {
+	System.out.println("Impresionante Compañero ¿cómo estás?");
+} </s>
+
+// A function that prints Trascendental
+public void trascendental() {
+	System.out.println("Trascendental");
+} </s>
+
+// A function that prints Razonable
+public void razonable() {
+	System.out.println("Razonable");
+} </s>
+
+// A function that prints Significativo Nos vemos Justo
+public void significativoNosVemosJusto() {
+	System.out.println("Significativo Nos vemos Justo");
+} </s>
+
+// A function that prints Honesto Bondadoso
+public void honestoBondadoso() {
+	System.out.println("Honesto Bondadoso");
+} </s>
+
+// A function that prints Sorprendente
+public void sorprendente() {
+	System.out.println("Sorprendente");
+} </s>
+
+// A function that prints ¿cómo estás?
+public void ¿ComoEstas?() {
+	System.out.println("¿cómo estás?");
+} </s>
+
+// A function that prints Perspicaz Sublime
+public void perspicazSublime() {
+	System.out.println("Perspicaz Sublime");
+} </s>
+
+// A function that prints Bien hecho
+public void bienHecho() {
+	System.out.println("Bien hecho");
+} </s>
+
+// A function that prints Considerado Solidario Importante Generoso
+public void consideradoSolidarioImportanteGeneroso() {
+	System.out.println("Considerado Solidario Importante Generoso");
+} </s>
+
+// A function that prints Buenos días
+public void buenosDias() {
+	System.out.println("Buenos días");
+} </s>
+
+// A function that prints Esencial Valiente Perspicaz Quizás
+public void esencialValientePerspicazQuizas() {
+	System.out.println("Esencial Valiente Perspicaz Quizás");
+} </s>
+
+// A function that prints Familiar
+public void familiar() {
+	System.out.println("Familiar");
+} </s>
+
+// A function that prints Precioso
+public void precioso() {
+	System.out.println("Precioso");
+} </s>
+
+// A function that prints Compasivo
+public void compasivo() {
+	System.out.println("Compasivo");
+} </s>
+
+// A function that prints De acuerdo Valiente
+public void deAcuerdoValiente() {
+	System.out.println("De acuerdo Valiente");
+} </s>
+
+// A function that prints ¿cómo estás?
+public void ¿ComoEstas?() {
+	System.out.println("¿cómo estás?");
+} </s>
+
+// A function that prints Espléndido
+public void esplendido() {
+	System.out.println("Espléndido");
+} </s>
+
+// A function that prints Nos vemos
+public void nosVemos() {
+	System.out.println("Nos vemos");
+} </s>
+
+// A function that prints Hola
+public void hola() {
+	System.out.println("Hola");
+} </s>
+
+// A function that prints Fascinante Maravilloso Fundamental Compañero Gentil
+public void fascinanteMaravillosoFundamentalCompaneroGentil() {
+	System.out.println("Fascinante Maravilloso Fundamental Compañero Gentil");
+} </s>
+
+// A function that prints Clave Vibrante Tenaz Genial
+public void claveVibranteTenazGenial() {
+	System.out.println("Clave Vibrante Tenaz Genial");
+} </s>
+
+// A function that prints ¿cómo estás?
+public void ¿ComoEstas?() {
+	System.out.println("¿cómo estás?");
+} </s>
+
+// A function that prints Elocuente
+public void elocuente() {
+	System.out.println("Elocuente");
+} </s>
+
+// A function that prints Hermoso
+public void hermoso() {
+	System.out.println("Hermoso");
+} </s>
+
+// A function that prints Nos vemos
+public void nosVemos() {
+	System.out.println("Nos vemos");
+} </s>
+
+// A function that prints Sensible
+public void sensible() {
+	System.out.println("Sensible");
+} </s>
+
+// A function that prints Persistente
+public void persistente() {
+	System.out.println("Persistente");
+} </s>
+
+// A function that prints No
+public void no() {
+	System.out.println("No");
+} </s>
+
+// A function that prints Inteligente
+public void inteligente() {
+	System.out.println("Inteligente");
+} </s>
+
+// A function that prints Adiós
+public void adios() {
+	System.out.println("Adiós");
+} </s>
+
+// A function that prints Buenos días
+public void buenosDias() {
+	System.out.println("Buenos días");
+} </s>
+
+// A function that prints Afable
+public void afable() {
+	System.out.println("Afable");
+} </s>
+
+// A function that prints Sensible
+public void sensible() {
+	System.out.println("Sensible");
+} </s>
+
+// A function that prints Encantador
+public void encantador() {
+	System.out.println("Encantador");
+} </s>
+
+// A function that prints Imperativo Afable Resuelto Determinado Perspicaz
+public void imperativoAfableResueltoDeterminadoPerspicaz() {
+	System.out.println("Imperativo Afable Resuelto Determinado Perspicaz");
+} </s>
+
+// A function that prints Perspicaz
+public void perspicaz() {
+	System.out.println("Perspicaz");
+} </s>
+
+// A function that prints Simpático Activo
+public void simpaticoActivo() {
+	System.out.println("Simpático Activo");
+} </s>
+
+// A function that prints Erudito
+public void erudito() {
+	System.out.println("Erudito");
+} </s>
+
+// A function that prints Erudito
+public void erudito() {
+	System.out.println("Erudito");
+} </s>
+
+// A function that prints Precioso
+public void precioso() {
+	System.out.println("Precioso");
+} </s>
+
+// A function that prints Optimista Sensible
+public void optimistaSensible() {
+	System.out.println("Optimista Sensible");
+} </s>
+
+// A function that prints Empático
+public void empatico() {
+	System.out.println("Empático");
+} </s>
+
+// A function that prints Noble
+public void noble() {
+	System.out.println("Noble");
+} </s>
+
+// A function that prints Erudito Saludos
+public void eruditoSaludos() {
+	System.out.println("Erudito Saludos");
+} </s>
+
+// A function that prints Alegre
+public void alegre() {
+	System.out.println("Alegre");
+} </s>
+
+// A function that prints Inevitable Ineludible Sabio Adiós Sensacional
+public void inevitableIneludibleSabioAdiosSensacional() {
+	System.out.println("Inevitable Ineludible Sabio Adiós Sensacional");
+} </s>
+
+// A function that prints Bienvenido Acogedor Valiente Divertido
+public void bienvenidoAcogedorValienteDivertido() {
+	System.out.println("Bienvenido Acogedor Valiente Divertido");
+} </s>
+
+// A function that prints Solidario Sensible
+public void solidarioSensible() {
+	System.out.println("Solidario Sensible");
+} </s>
+
+// A function that prints Sobresaliente
+public void sobresaliente() {
+	System.out.println("Sobresaliente");
+} </s>
+
+// A function that prints Trascendental
+public void trascendental() {
+	System.out.println("Trascendental");
+} </s>
+
+// A function that prints Genial
+public void genial() {
+	System.out.println("Genial");
+} </s>
+
+// A function that prints Precioso
+public void precioso() {
+	System.out.println("Precioso");
+} </s>
+
+// A function that prints Increíble
+public void increible() {
+	System.out.println("Increíble");
+} </s>
+
+// A function that prints Bondadoso Estimable Ético
+public void bondadosoEstimableEtico() {
+	System.out.println("Bondadoso Estimable Ético");
+} </s>
+
+// A function that prints Noble
+public void noble() {
+	System.out.println("Noble");
+} </s>
+
+// A function that prints Apasionado
+public void apasionado() {
+	System.out.println("Apasionado");
+} </s>
+
+// A function that prints Obligatorio
+public void obligatorio() {
+	System.out.println("Obligatorio");
+} </s>
+
+// A function that prints Increíble
+public void increible() {
+	System.out.println("Increíble");
+} </s>
+
+// A function that prints Comprensivo
+public void comprensivo() {
+	System.out.println("Comprensivo");
+} </s>
+
+// A function that prints Persistente
+public void persistente() {
+	System.out.println("Persistente");
+} </s>
+
+// A function that prints Respetuoso
+public void respetuoso() {
+	System.out.println("Respetuoso");
+} </s>
+
+// A function that prints Comprensivo
+public void comprensivo() {
+	System.out.println("Comprensivo");
+} </s>
+
+// A function that prints Perspicaz
+public void perspicaz() {
+	System.out.println("Perspicaz");
+} </s>
+
+// A function that prints Optimista
+public void optimista() {
+	System.out.println("Optimista");
+} </s>
+
+// A function that prints Significativo Transparente Admirable Valiente
+public void significativoTransparenteAdmirableValiente() {
+	System.out.println("Significativo Transparente Admirable Valiente");
+} </s>
+
+// A function that prints Magnífico
+public void magnifico() {
+	System.out.println("Magnífico");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Enriquecedor
+public void enriquecedor() {
+	System.out.println("Enriquecedor");
+} </s>
+
+// A function that prints Magnánimo Noble Gracias Saludos Cordial
+public void magnanimoNobleGraciasSaludosCordial() {
+	System.out.println("Magnánimo Noble Gracias Saludos Cordial");
+} </s>
+
+// A function that prints Educado
+public void educado() {
+	System.out.println("Educado");
+} </s>
+
+// A function that prints Responsable
+public void responsable() {
+	System.out.println("Responsable");
+} </s>
+
+// A function that prints Apasionado Extraordinario Vital
+public void apasionadoExtraordinarioVital() {
+	System.out.println("Apasionado Extraordinario Vital");
+} </s>
+
+// A function that prints Perfecto
+public void perfecto() {
+	System.out.println("Perfecto");
+} </s>
+
+// A function that prints Considerado Admirable Imparcial Resiliente
+public void consideradoAdmirableImparcialResiliente() {
+	System.out.println("Considerado Admirable Imparcial Resiliente");
+} </s>
+
+// A function that prints Maravilloso Muchas gracias Apasionado Estupendo Hola
+public void maravillosoMuchasGraciasApasionadoEstupendoHola() {
+	System.out.println("Maravilloso Muchas gracias Apasionado Estupendo Hola");
+} </s>
+
+// A function that prints Simpático Honesto Está bien Resiliente Vital
+public void simpaticoHonestoEstaBienResilienteVital() {
+	System.out.println("Simpático Honesto Está bien Resiliente Vital");
+} </s>
+
+// A function that prints Nos vemos
+public void nosVemos() {
+	System.out.println("Nos vemos");
+} </s>
+
+// A function that prints Ardiente
+public void ardiente() {
+	System.out.println("Ardiente");
+} </s>
+
+// A function that prints Hola Bondadoso
+public void holaBondadoso() {
+	System.out.println("Hola Bondadoso");
+} </s>
+
+// A function that prints Genial
+public void genial() {
+	System.out.println("Genial");
+} </s>
+
+// A function that prints Ferviente
+public void ferviente() {
+	System.out.println("Ferviente");
+} </s>
+
+// A function that prints Hospitalario Perfecto
+public void hospitalarioPerfecto() {
+	System.out.println("Hospitalario Perfecto");
+} </s>
+
+// A function that prints Firme
+public void firme() {
+	System.out.println("Firme");
+} </s>
+
+// A function that prints Fundamental
+public void fundamental() {
+	System.out.println("Fundamental");
+} </s>
+
+// A function that prints Conmovedor
+public void conmovedor() {
+	System.out.println("Conmovedor");
+} </s>
+
+// A function that prints Compasivo Simpático Caritativo Irremediable
+public void compasivoSimpaticoCaritativoIrremediable() {
+	System.out.println("Compasivo Simpático Caritativo Irremediable");
+} </s>
+
+// A function that prints Dinámico
+public void dinamico() {
+	System.out.println("Dinámico");
+} </s>
+
+// A function that prints Significativo
+public void significativo() {
+	System.out.println("Significativo");
+} </s>
+
+// A function that prints Excelente
+public void excelente() {
+	System.out.println("Excelente");
+} </s>
+
+// A function that prints Respetuoso
+public void respetuoso() {
+	System.out.println("Respetuoso");
+} </s>
+
+// A function that prints Comprometido
+public void comprometido() {
+	System.out.println("Comprometido");
+} </s>
+
+// A function that prints Divertido
+public void divertido() {
+	System.out.println("Divertido");
+} </s>
+
+// A function that prints Magnánimo
+public void magnanimo() {
+	System.out.println("Magnánimo");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Sublime
+public void sublime() {
+	System.out.println("Sublime");
+} </s>
+
+// A function that prints Inteligente
+public void inteligente() {
+	System.out.println("Inteligente");
+} </s>
+
+// A function that prints Lo siento
+public void loSiento() {
+	System.out.println("Lo siento");
+} </s>
+
+// A function that prints Paciente
+public void paciente() {
+	System.out.println("Paciente");
+} </s>
+
+// A function that prints Valiente Lo siento Decisivo Fenomenal Transparente
+public void valienteLoSientoDecisivoFenomenalTransparente() {
+	System.out.println("Valiente Lo siento Decisivo Fenomenal Transparente");
+} </s>
+
+// A function that prints Paciente
+public void paciente() {
+	System.out.println("Paciente");
+} </s>
+
+// A function that prints Genial
+public void genial() {
+	System.out.println("Genial");
+} </s>
+
+// A function that prints Cuidado
+public void cuidado() {
+	System.out.println("Cuidado");
+} </s>
+
+// A function that prints Hola
+public void hola() {
+	System.out.println("Hola");
+} </s>
+
+// A function that prints Fantástico
+public void fantastico() {
+	System.out.println("Fantástico");
+} </s>
+
+// A function that prints Fatal
+public void fatal() {
+	System.out.println("Fatal");
+} </s>
+
+// A function that prints Vibrante
+public void vibrante() {
+	System.out.println("Vibrante");
+} </s>
+
+// A function that prints Sublime
+public void sublime() {
+	System.out.println("Sublime");
+} </s>
+
+// A function that prints Acogedor
+public void acogedor() {
+	System.out.println("Acogedor");
+} </s>
+
+// A function that prints Sensible Generoso
+public void sensibleGeneroso() {
+	System.out.println("Sensible Generoso");
+} </s>
+
+// A function that prints Necesario
+public void necesario() {
+	System.out.println("Necesario");
+} </s>
+
+// A function that prints Ferviente Magnífico
+public void fervienteMagnifico() {
+	System.out.println("Ferviente Magnífico");
+} </s>
+
+// A function that prints Responsable
+public void responsable() {
+	System.out.println("Responsable");
+} </s>
+
+// A function that prints Sensacional
+public void sensacional() {
+	System.out.println("Sensacional");
+} </s>
+
+// A function that prints Afable
+public void afable() {
+	System.out.println("Afable");
+} </s>
+
+// A function that prints Genial Cordial
+public void genialCordial() {
+	System.out.println("Genial Cordial");
+} </s>
+
+// A function that prints Tolerante
+public void tolerante() {
+	System.out.println("Tolerante");
+} </s>
+
+// A function that prints Por favor
+public void porFavor() {
+	System.out.println("Por favor");
+} </s>
+
+// A function that prints Asombroso
+public void asombroso() {
+	System.out.println("Asombroso");
+} </s>
+
+// A function that prints Gracias
+public void gracias() {
+	System.out.println("Gracias");
+} </s>
+
+// A function that prints Cuidado
+public void cuidado() {
+	System.out.println("Cuidado");
+} </s>
+
+// A function that prints Sublime
+public void sublime() {
+	System.out.println("Sublime");
+} </s>
+
+// A function that prints Sí
+public void si() {
+	System.out.println("Sí");
+} </s>
+
+// A function that prints Saludos
+public void saludos() {
+	System.out.println("Saludos");
+} </s>
+
+// A function that prints Razonable Hasta luego Adiós
+public void razonableHastaLuegoAdios() {
+	System.out.println("Razonable Hasta luego Adiós");
+} </s>
+
+// A function that prints Por favor
+public void porFavor() {
+	System.out.println("Por favor");
+} </s>
+
+// A function that prints Leal Fantástico Impresionante Bien hecho
+public void lealFantasticoImpresionanteBienHecho() {
+	System.out.println("Leal Fantástico Impresionante Bien hecho");
+} </s>
+
+// A function that prints Hasta luego
+public void hastaLuego() {
+	System.out.println("Hasta luego");
+} </s>
+
+// A function that prints Elocuente
+public void elocuente() {
+	System.out.println("Elocuente");
+} </s>
+
+// A function that prints Afable
+public void afable() {
+	System.out.println("Afable");
+} </s>
+
+// A function that prints Buenas noches
+public void buenasNoches() {
+	System.out.println("Buenas noches");
+} </s>
+
+// A function that prints Valioso
+public void valioso() {
+	System.out.println("Valioso");
+} </s>
+
+// A function that prints Imparcial Divertido Perspicaz
+public void imparcialDivertidoPerspicaz() {
+	System.out.println("Imparcial Divertido Perspicaz");
+} </s>
+
+// A function that prints Entusiasta
+public void entusiasta() {
+	System.out.println("Entusiasta");
+} </s>
+
+// A function that prints Estimable
+public void estimable() {
+	System.out.println("Estimable");
+} </s>
+
+// A function that prints Resplandeciente
+public void resplandeciente() {
+	System.out.println("Resplandeciente");
+} </s>
+
+// A function that prints Honesto Responsable Sorprendente Quizás
+public void honestoResponsableSorprendenteQuizas() {
+	System.out.println("Honesto Responsable Sorprendente Quizás");
+} </s>
+
+// A function that prints Vibrante Saludos Brillante
+public void vibranteSaludosBrillante() {
+	System.out.println("Vibrante Saludos Brillante");
+} </s>
+
+// A function that prints Encantador
+public void encantador() {
+	System.out.println("Encantador");
+} </s>
+
+// A function that prints Conmovedor
+public void conmovedor() {
+	System.out.println("Conmovedor");
+} </s>
+
+// A function that prints Erudito
+public void erudito() {
+	System.out.println("Erudito");
+} </s>
+
+// A function that prints Indispensable
+public void indispensable() {
+	System.out.println("Indispensable");
+} </s>
+
+// A function that prints Profundo
+public void profundo() {
+	System.out.println("Profundo");
+} </s>
+
+// A function that prints Bienvenido
+public void bienvenido() {
+	System.out.println("Bienvenido");
+} </s>
+
+// A function that prints Paciente
+public void paciente() {
+	System.out.println("Paciente");
+} </s>
+
+// A function that prints Asombroso Caritativo Sobresaliente Colosal Bienvenido
+public void asombrosoCaritativoSobresalienteColosalBienvenido() {
+	System.out.println("Asombroso Caritativo Sobresaliente Colosal Bienvenido");
+} </s>
+
+// A function that prints Enriquecedor
+public void enriquecedor() {
+	System.out.println("Enriquecedor");
+} </s>
+
+// A function that prints Sublime Optimista Bienvenido Indispensable
+public void sublimeOptimistaBienvenidoIndispensable() {
+	System.out.println("Sublime Optimista Bienvenido Indispensable");
+} </s>
+
+// A function that prints Alucinante
+public void alucinante() {
+	System.out.println("Alucinante");
+} </s>
+
+// A function that prints Familiar Emocionante Alegre Colosal Amable
+public void familiarEmocionanteAlegreColosalAmable() {
+	System.out.println("Familiar Emocionante Alegre Colosal Amable");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Significativo Educado Buenas noches Excelente
+public void significativoEducadoBuenasNochesExcelente() {
+	System.out.println("Significativo Educado Buenas noches Excelente");
+} </s>
+
+// A function that prints Imperativo Dedicado Amistoso
+public void imperativoDedicadoAmistoso() {
+	System.out.println("Imperativo Dedicado Amistoso");
+} </s>
+
+// A function that prints Considerado
+public void considerado() {
+	System.out.println("Considerado");
+} </s>
+
+// A function that prints Imperativo
+public void imperativo() {
+	System.out.println("Imperativo");
+} </s>
+
+// A function that prints Alegre
+public void alegre() {
+	System.out.println("Alegre");
+} </s>
+
+// A function that prints Respetuoso
+public void respetuoso() {
+	System.out.println("Respetuoso");
+} </s>
+
+// A function that prints Fundamental
+public void fundamental() {
+	System.out.println("Fundamental");
+} </s>
+
+// A function that prints Hola
+public void hola() {
+	System.out.println("Hola");
+} </s>
+
+// A function that prints Fantástico
+public void fantastico() {
+	System.out.println("Fantástico");
+} </s>
+
+// A function that prints Decisivo
+public void decisivo() {
+	System.out.println("Decisivo");
+} </s>
+
+// A function that prints Comprometido
+public void comprometido() {
+	System.out.println("Comprometido");
+} </s>
+
+// A function that prints Dedicado
+public void dedicado() {
+	System.out.println("Dedicado");
+} </s>
+
+// A function that prints Noble
+public void noble() {
+	System.out.println("Noble");
+} </s>
+
+// A function that prints Relevante
+public void relevante() {
+	System.out.println("Relevante");
+} </s>
+
+// A function that prints Significativo
+public void significativo() {
+	System.out.println("Significativo");
+} </s>
+
+// A function that prints Moral
+public void moral() {
+	System.out.println("Moral");
+} </s>
+
+// A function that prints Sensible
+public void sensible() {
+	System.out.println("Sensible");
+} </s>
+
+// A function that prints Noble Leal Espléndido Honesto Significativo
+public void nobleLealEsplendidoHonestoSignificativo() {
+	System.out.println("Noble Leal Espléndido Honesto Significativo");
+} </s>
+
+// A function that prints Precioso
+public void precioso() {
+	System.out.println("Precioso");
+} </s>
+
+// A function that prints Optimista Impresivo Íntegro Considerado Cortés
+public void optimistaImpresivoIntegroConsideradoCortes() {
+	System.out.println("Optimista Impresivo Íntegro Considerado Cortés");
+} </s>
+
+// A function that prints Afable Prudente No Cuidado
+public void afablePrudenteNoCuidado() {
+	System.out.println("Afable Prudente No Cuidado");
+} </s>
+
+// A function that prints Emotivo
+public void emotivo() {
+	System.out.println("Emotivo");
+} </s>
+
+// A function that prints Prodigioso
+public void prodigioso() {
+	System.out.println("Prodigioso");
+} </s>
+
+// A function that prints Hola Apasionado Valioso
+public void holaApasionadoValioso() {
+	System.out.println("Hola Apasionado Valioso");
+} </s>
+
+// A function that prints Amistoso Perspicaz
+public void amistosoPerspicaz() {
+	System.out.println("Amistoso Perspicaz");
+} </s>
+
+// A function that prints Magnífico
+public void magnifico() {
+	System.out.println("Magnífico");
+} </s>
+
+// A function that prints Energético
+public void energetico() {
+	System.out.println("Energético");
+} </s>
+
+// A function that prints Hermoso
+public void hermoso() {
+	System.out.println("Hermoso");
+} </s>
+
+// A function that prints Hola
+public void hola() {
+	System.out.println("Hola");
+} </s>
+
+// A function that prints Virtuoso
+public void virtuoso() {
+	System.out.println("Virtuoso");
+} </s>
+
+// A function that prints Resuelto
+public void resuelto() {
+	System.out.println("Resuelto");
+} </s>
+
+// A function that prints Solidario Nos vemos Respetuoso Modesto
+public void solidarioNosVemosRespetuosoModesto() {
+	System.out.println("Solidario Nos vemos Respetuoso Modesto");
+} </s>
+
+// A function that prints Educado
+public void educado() {
+	System.out.println("Educado");
+} </s>
+
+// A function that prints Fundamental
+public void fundamental() {
+	System.out.println("Fundamental");
+} </s>
+
+// A function that prints Intelectual
+public void intelectual() {
+	System.out.println("Intelectual");
+} </s>
+
+// A function that prints Crucial
+public void crucial() {
+	System.out.println("Crucial");
+} </s>
+
+// A function that prints Alegre
+public void alegre() {
+	System.out.println("Alegre");
+} </s>
+
+// A function that prints Trascendental Espléndido Nos vemos Increíble
+public void trascendentalEsplendidoNosVemosIncreible() {
+	System.out.println("Trascendental Espléndido Nos vemos Increíble");
+} </s>
+
+// A function that prints Activo
+public void activo() {
+	System.out.println("Activo");
+} </s>
+
+// A function that prints Ardiente
+public void ardiente() {
+	System.out.println("Ardiente");
+} </s>
+
+// A function that prints Sensible Significativo Conmovedor Notable Afable
+public void sensibleSignificativoConmovedorNotableAfable() {
+	System.out.println("Sensible Significativo Conmovedor Notable Afable");
+} </s>
+
+// A function that prints Solidario Prodigioso Gracias
+public void solidarioProdigiosoGracias() {
+	System.out.println("Solidario Prodigioso Gracias");
+} </s>
+
+// A function that prints Esencial Quizás Perspicaz Increíble Inteligente
+public void esencialQuizasPerspicazIncreibleInteligente() {
+	System.out.println("Esencial Quizás Perspicaz Increíble Inteligente");
+} </s>
+
+// A function that prints Estupendo
+public void estupendo() {
+	System.out.println("Estupendo");
+} </s>
+
+// A function that prints Imperativo
+public void imperativo() {
+	System.out.println("Imperativo");
+} </s>
+
+// A function that prints Entusiasta
+public void entusiasta() {
+	System.out.println("Entusiasta");
+} </s>
+
+// A function that prints Sobresaliente
+public void sobresaliente() {
+	System.out.println("Sobresaliente");
+} </s>
+
+// A function that prints Magnífico
+public void magnifico() {
+	System.out.println("Magnífico");
+} </s>
+
+// A function that prints Amistoso Íntegro Significativo
+public void amistosoIntegroSignificativo() {
+	System.out.println("Amistoso Íntegro Significativo");
+} </s>
+
+// A function that prints Magnífico
+public void magnifico() {
+	System.out.println("Magnífico");
+} </s>
+
+// A function that prints Buenas noches
+public void buenasNoches() {
+	System.out.println("Buenas noches");
+} </s>
+
+// A function that prints Humanitario
+public void humanitario() {
+	System.out.println("Humanitario");
+} </s>
+
+// A function that prints Apasionado
+public void apasionado() {
+	System.out.println("Apasionado");
+} </s>
+
+// A function that prints Amistoso Elocuente Adiós Emocionante
+public void amistosoElocuenteAdiosEmocionante() {
+	System.out.println("Amistoso Elocuente Adiós Emocionante");
+} </s>
+
+// A function that prints Virtuoso
+public void virtuoso() {
+	System.out.println("Virtuoso");
+} </s>
+
+// A function that prints Ferviente
+public void ferviente() {
+	System.out.println("Ferviente");
+} </s>
+
+// A function that prints Compasivo
+public void compasivo() {
+	System.out.println("Compasivo");
+} </s>
+
+// A function that prints Generoso
+public void generoso() {
+	System.out.println("Generoso");
+} </s>
+
+// A function that prints Amigable
+public void amigable() {
+	System.out.println("Amigable");
+} </s>
+
+// A function that prints Caritativo Está bien Valioso
+public void caritativoEstaBienValioso() {
+	System.out.println("Caritativo Está bien Valioso");
+} </s>
+
+// A function that prints Fatal
+public void fatal() {
+	System.out.println("Fatal");
+} </s>
+
+// A function that prints Lo siento Altruista
+public void loSientoAltruista() {
+	System.out.println("Lo siento Altruista");
+} </s>
+
+// A function that prints No
+public void no() {
+	System.out.println("No");
+} </s>
+
+// A function that prints Excelente
+public void excelente() {
+	System.out.println("Excelente");
+} </s>
+
+// A function that prints Necesario
+public void necesario() {
+	System.out.println("Necesario");
+} </s>
+
+// A function that prints Divertido
+public void divertido() {
+	System.out.println("Divertido");
+} </s>
+
+// A function that prints Bien hecho Humanitario Ferviente Simpático Educado
+public void bienHechoHumanitarioFervienteSimpaticoEducado() {
+	System.out.println("Bien hecho Humanitario Ferviente Simpático Educado");
+} </s>
+
+// A function that prints Atractivo
+public void atractivo() {
+	System.out.println("Atractivo");
+} </s>
+
+// A function that prints Encantador Noble
+public void encantadorNoble() {
+	System.out.println("Encantador Noble");
+} </s>
+
+// A function that prints Transparente
+public void transparente() {
+	System.out.println("Transparente");
+} </s>
+
+// A function that prints Profundo
+public void profundo() {
+	System.out.println("Profundo");
+} </s>
+
+// A function that prints Familiar
+public void familiar() {
+	System.out.println("Familiar");
+} </s>
+
+// A function that prints Paciente
+public void paciente() {
+	System.out.println("Paciente");
+} </s>
+
+// A function that prints Perspicaz
+public void perspicaz() {
+	System.out.println("Perspicaz");
+} </s>
+
+// A function that prints Enriquecedor
+public void enriquecedor() {
+	System.out.println("Enriquecedor");
+} </s>
+
+// A function that prints Notable
+public void notable() {
+	System.out.println("Notable");
+} </s>
+
+// A function that prints Intenso
+public void intenso() {
+	System.out.println("Intenso");
+} </s>
+
+// A function that prints Trascendental
+public void trascendental() {
+	System.out.println("Trascendental");
+} </s>
+
+// A function that prints Fabuloso Adiós Impresivo Buenos días
+public void fabulosoAdiosImpresivoBuenosDias() {
+	System.out.println("Fabuloso Adiós Impresivo Buenos días");
+} </s>
+
+// A function that prints Profundo
+public void profundo() {
+	System.out.println("Profundo");
+} </s>
+
+// A function that prints Optimista ¿cómo estás?
+public void optimista¿ComoEstas?() {
+	System.out.println("Optimista ¿cómo estás?");
+} </s>
+
+// A function that prints Sensible
+public void sensible() {
+	System.out.println("Sensible");
+} </s>
+
+// A function that prints Necesario
+public void necesario() {
+	System.out.println("Necesario");
+} </s>
+
+// A function that prints Hasta luego
+public void hastaLuego() {
+	System.out.println("Hasta luego");
+} </s>
+
+// A function that prints Emotivo
+public void emotivo() {
+	System.out.println("Emotivo");
+} </s>
+
+// A function that prints Gracias
+public void gracias() {
+	System.out.println("Gracias");
+} </s>
+
+// A function that prints Virtuoso
+public void virtuoso() {
+	System.out.println("Virtuoso");
+} </s>
+
+// A function that prints Honesto
+public void honesto() {
+	System.out.println("Honesto");
+} </s>
+
+// A function that prints Solidario
+public void solidario() {
+	System.out.println("Solidario");
+} </s>
+
+// A function that prints Está bien
+public void estaBien() {
+	System.out.println("Está bien");
+} </s>
+
+// A function that prints Moral
+public void moral() {
+	System.out.println("Moral");
+} </s>
+
+// A function that prints Humilde
+public void humilde() {
+	System.out.println("Humilde");
+} </s>
+
+// A function that prints Erudito Optimista Adiós Altruista Magnífico
+public void eruditoOptimistaAdiosAltruistaMagnifico() {
+	System.out.println("Erudito Optimista Adiós Altruista Magnífico");
+} </s>
+
+// A function that prints Asombroso
+public void asombroso() {
+	System.out.println("Asombroso");
+} </s>
+
+// A function that prints Educado Caritativo
+public void educadoCaritativo() {
+	System.out.println("Educado Caritativo");
+} </s>
+
+// A function that prints Valiente
+public void valiente() {
+	System.out.println("Valiente");
+} </s>
+
+// A function that prints Majestuoso Fascinante Solidario
+public void majestuosoFascinanteSolidario() {
+	System.out.println("Majestuoso Fascinante Solidario");
+} </s>
+
+// A function that prints Fascinante
+public void fascinante() {
+	System.out.println("Fascinante");
+} </s>
+
+// A function that prints Colosal
+public void colosal() {
+	System.out.println("Colosal");
+} </s>
+
+// A function that prints Comprensivo Encantador Caritativo Precioso
+public void comprensivoEncantadorCaritativoPrecioso() {
+	System.out.println("Comprensivo Encantador Caritativo Precioso");
+} </s>
+
+// A function that prints Paciente
+public void paciente() {
+	System.out.println("Paciente");
+} </s>
+
+// A function that prints Solidario
+public void solidario() {
+	System.out.println("Solidario");
+} </s>
+
+// A function that prints Considerado
+public void considerado() {
+	System.out.println("Considerado");
+} </s>
+
+// A function that prints Importante
+public void importante() {
+	System.out.println("Importante");
+} </s>
+
+// A function that prints Entusiasta Inevitable Fabuloso Paciente
+public void entusiastaInevitableFabulosoPaciente() {
+	System.out.println("Entusiasta Inevitable Fabuloso Paciente");
+} </s>
+
+// A function that prints Fascinante
+public void fascinante() {
+	System.out.println("Fascinante");
+} </s>
+
+// A function that prints Quizás
+public void quizas() {
+	System.out.println("Quizás");
+} </s>
+
+// A function that prints Perdón Respetuoso Esencial Clave Determinante
+public void perdonRespetuosoEsencialClaveDeterminante() {
+	System.out.println("Perdón Respetuoso Esencial Clave Determinante");
+} </s>
+
+// A function that prints Trascendental
+public void trascendental() {
+	System.out.println("Trascendental");
+} </s>
+
+// A function that prints Atractivo
+public void atractivo() {
+	System.out.println("Atractivo");
+} </s>
+
+// A function that prints Sabio
+public void sabio() {
+	System.out.println("Sabio");
+} </s>
+
+// A function that prints Quizás
+public void quizas() {
+	System.out.println("Quizás");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Imperativo
+public void imperativo() {
+	System.out.println("Imperativo");
+} </s>
+
+// A function that prints Virtuoso
+public void virtuoso() {
+	System.out.println("Virtuoso");
+} </s>
+
+// A function that prints Bienvenido Afable
+public void bienvenidoAfable() {
+	System.out.println("Bienvenido Afable");
+} </s>
+
+// A function that prints Considerado
+public void considerado() {
+	System.out.println("Considerado");
+} </s>
+
+// A function that prints Resiliente
+public void resiliente() {
+	System.out.println("Resiliente");
+} </s>
+
+// A function that prints Brillante
+public void brillante() {
+	System.out.println("Brillante");
+} </s>
+
+// A function that prints Por favor
+public void porFavor() {
+	System.out.println("Por favor");
+} </s>
+
+// A function that prints Amable
+public void amable() {
+	System.out.println("Amable");
+} </s>
+
+// A function that prints Impresionante
+public void impresionante() {
+	System.out.println("Impresionante");
+} </s>
+
+// A function that prints Activo
+public void activo() {
+	System.out.println("Activo");
+} </s>
+
+// A function that prints Magnífico Amigable
+public void magnificoAmigable() {
+	System.out.println("Magnífico Amigable");
+} </s>
+
+// A function that prints Determinado
+public void determinado() {
+	System.out.println("Determinado");
+} </s>
+
+// A function that prints Amigable
+public void amigable() {
+	System.out.println("Amigable");
+} </s>
+
+// A function that prints Adiós
+public void adios() {
+	System.out.println("Adiós");
+} </s>
+
+// A function that prints Emotivo
+public void emotivo() {
+	System.out.println("Emotivo");
+} </s>
+
+// A function that prints Solidario
+public void solidario() {
+	System.out.println("Solidario");
+} </s>
+
+// A function that prints Firme
+public void firme() {
+	System.out.println("Firme");
+} </s>
+
+// A function that prints Ferviente
+public void ferviente() {
+	System.out.println("Ferviente");
+} </s>
+
+// A function that prints Persistente
+public void persistente() {
+	System.out.println("Persistente");
+} </s>
+
+// A function that prints Fenomenal
+public void fenomenal() {
+	System.out.println("Fenomenal");
+} </s>
+
+// A function that prints Transparente
+public void transparente() {
+	System.out.println("Transparente");
+} </s>
+
+// A function that prints Importante
+public void importante() {
+	System.out.println("Importante");
+} </s>
+
+// A function that prints Imperativo Inteligente Fascinante
+public void imperativoInteligenteFascinante() {
+	System.out.println("Imperativo Inteligente Fascinante");
+} </s>
+
+// A function that prints Ético Fabuloso
+public void eticoFabuloso() {
+	System.out.println("Ético Fabuloso");
+} </s>
+
+// A function that prints Resiliente
+public void resiliente() {
+	System.out.println("Resiliente");
+} </s>
+
+// A function that prints Saludos Excelente Solidario Cercano
+public void saludosExcelenteSolidarioCercano() {
+	System.out.println("Saludos Excelente Solidario Cercano");
+} </s>
+
+// A function that prints Estupendo
+public void estupendo() {
+	System.out.println("Estupendo");
+} </s>
+
+// A function that prints Atractivo
+public void atractivo() {
+	System.out.println("Atractivo");
+} </s>
+
+// A function that prints Simpático Ético
+public void simpaticoEtico() {
+	System.out.println("Simpático Ético");
+} </s>
+
+// A function that prints Bondadoso
+public void bondadoso() {
+	System.out.println("Bondadoso");
+} </s>
+
+// A function that prints Ineludible
+public void ineludible() {
+	System.out.println("Ineludible");
+} </s>
+
+// A function that prints Fundamental
+public void fundamental() {
+	System.out.println("Fundamental");
+} </s>
+
+// A function that prints Fundamental
+public void fundamental() {
+	System.out.println("Fundamental");
+} </s>
+
+// A function that prints Inteligente
+public void inteligente() {
+	System.out.println("Inteligente");
+} </s>
+
+// A function that prints ¿cómo estás?
+public void ¿ComoEstas?() {
+	System.out.println("¿cómo estás?");
+} </s>
+
+// A function that prints Emotivo
+public void emotivo() {
+	System.out.println("Emotivo");
+} </s>
+
+// A function that prints Gracias
+public void gracias() {
+	System.out.println("Gracias");
+} </s>
+
+// A function that prints Espectacular
+public void espectacular() {
+	System.out.println("Espectacular");
+} </s>
+
+// A function that prints Fantástico Sublime
+public void fantasticoSublime() {
+	System.out.println("Fantástico Sublime");
+} </s>
+
+// A function that prints Modesto
+public void modesto() {
+	System.out.println("Modesto");
+} </s>
+
+// A function that prints Vibrante
+public void vibrante() {
+	System.out.println("Vibrante");
+} </s>
+
+// A function that prints Perdón
+public void perdon() {
+	System.out.println("Perdón");
+} </s>
+
+// A function that prints Determinado
+public void determinado() {
+	System.out.println("Determinado");
+} </s>
+
+// A function that prints Hasta luego
+public void hastaLuego() {
+	System.out.println("Hasta luego");
+} </s>
+
+// A function that prints Divertido
+public void divertido() {
+	System.out.println("Divertido");
+} </s>
+
+// A function that prints Familiar
+public void familiar() {
+	System.out.println("Familiar");
+} </s>
+
+// A function that prints Cuidado
+public void cuidado() {
+	System.out.println("Cuidado");
+} </s>
+
+// A function that prints Urgente Altruista Humilde Asombroso Majestuoso
+public void urgenteAltruistaHumildeAsombrosoMajestuoso() {
+	System.out.println("Urgente Altruista Humilde Asombroso Majestuoso");
+} </s>
+
+// A function that prints Honesto
+public void honesto() {
+	System.out.println("Honesto");
+} </s>
+
+// A function that prints Amable Bien hecho Amigable Modesto Genial
+public void amableBienHechoAmigableModestoGenial() {
+	System.out.println("Amable Bien hecho Amigable Modesto Genial");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Ético
+public void etico() {
+	System.out.println("Ético");
+} </s>
+
+// A function that prints Responsable
+public void responsable() {
+	System.out.println("Responsable");
+} </s>
+
+// A function that prints Gracias Divertido Obligatorio Sensible Sobresaliente
+public void graciasDivertidoObligatorioSensibleSobresaliente() {
+	System.out.println("Gracias Divertido Obligatorio Sensible Sobresaliente");
+} </s>
+
+// A function that prints Fantástico
+public void fantastico() {
+	System.out.println("Fantástico");
+} </s>
+
+// A function that prints Compañero Magnífico Brillante
+public void companeroMagnificoBrillante() {
+	System.out.println("Compañero Magnífico Brillante");
+} </s>
+
+// A function that prints Perspicaz
+public void perspicaz() {
+	System.out.println("Perspicaz");
+} </s>
+
+// A function that prints Estimable
+public void estimable() {
+	System.out.println("Estimable");
+} </s>
+
+// A function that prints Acogedor
+public void acogedor() {
+	System.out.println("Acogedor");
+} </s>
+
+// A function that prints Ardiente
+public void ardiente() {
+	System.out.println("Ardiente");
+} </s>
+
+// A function that prints Comprometido
+public void comprometido() {
+	System.out.println("Comprometido");
+} </s>
+
+// A function that prints Comprensivo
+public void comprensivo() {
+	System.out.println("Comprensivo");
+} </s>
+
+// A function that prints Indispensable
+public void indispensable() {
+	System.out.println("Indispensable");
+} </s>
+
+// A function that prints Solidario
+public void solidario() {
+	System.out.println("Solidario");
+} </s>
+
+// A function that prints Tolerante
+public void tolerante() {
+	System.out.println("Tolerante");
+} </s>
+
+// A function that prints Paciente
+public void paciente() {
+	System.out.println("Paciente");
+} </s>
+
+// A function that prints Excelente
+public void excelente() {
+	System.out.println("Excelente");
+} </s>
+
+// A function that prints Majestuoso
+public void majestuoso() {
+	System.out.println("Majestuoso");
+} </s>
+
+// A function that prints Humanitario
+public void humanitario() {
+	System.out.println("Humanitario");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Hasta luego Amistoso Alegre Honesto Atractivo
+public void hastaLuegoAmistosoAlegreHonestoAtractivo() {
+	System.out.println("Hasta luego Amistoso Alegre Honesto Atractivo");
+} </s>
+
+// A function that prints Respetuoso Clave Ético Perfecto Divertido
+public void respetuosoClaveEticoPerfectoDivertido() {
+	System.out.println("Respetuoso Clave Ético Perfecto Divertido");
+} </s>
+
+// A function that prints Muchas gracias
+public void muchasGracias() {
+	System.out.println("Muchas gracias");
+} </s>
+
+// A function that prints Tenaz
+public void tenaz() {
+	System.out.println("Tenaz");
+} </s>
+
+// A function that prints Magnánimo Fundamental
+public void magnanimoFundamental() {
+	System.out.println("Magnánimo Fundamental");
+} </s>
+
+// A function that prints Íntegro
+public void integro() {
+	System.out.println("Íntegro");
+} </s>
+
+// A function that prints Colosal Justo Admirable Compasivo
+public void colosalJustoAdmirableCompasivo() {
+	System.out.println("Colosal Justo Admirable Compasivo");
+} </s>
+
+// A function that prints Determinante
+public void determinante() {
+	System.out.println("Determinante");
+} </s>
+
+// A function that prints Bienvenido
+public void bienvenido() {
+	System.out.println("Bienvenido");
+} </s>
+
+// A function that prints Virtuoso
+public void virtuoso() {
+	System.out.println("Virtuoso");
+} </s>
+
+// A function that prints Estupendo
+public void estupendo() {
+	System.out.println("Estupendo");
+} </s>
+
+// A function that prints Inteligente
+public void inteligente() {
+	System.out.println("Inteligente");
+} </s>
+
+// A function that prints Impresivo Sensacional Familiar Hasta luego Tolerante
+public void impresivoSensacionalFamiliarHastaLuegoTolerante() {
+	System.out.println("Impresivo Sensacional Familiar Hasta luego Tolerante");
+} </s>
+
+// A function that prints Responsable
+public void responsable() {
+	System.out.println("Responsable");
+} </s>
+
+// A function that prints Comprometido
+public void comprometido() {
+	System.out.println("Comprometido");
+} </s>
+
+// A function that prints Resiliente
+public void resiliente() {
+	System.out.println("Resiliente");
+} </s>
+
+// A function that prints Impresivo
+public void impresivo() {
+	System.out.println("Impresivo");
+} </s>
+
+// A function that prints Acogedor
+public void acogedor() {
+	System.out.println("Acogedor");
+} </s>
+
+// A function that prints Modesto
+public void modesto() {
+	System.out.println("Modesto");
+} </s>
+
+// A function that prints Determinado
+public void determinado() {
+	System.out.println("Determinado");
+} </s>
+
+// A function that prints Perdón Solidario Cordial Energético Intelectual
+public void perdonSolidarioCordialEnergeticoIntelectual() {
+	System.out.println("Perdón Solidario Cordial Energético Intelectual");
+} </s>
+
+// A function that prints Magnífico
+public void magnifico() {
+	System.out.println("Magnífico");
+} </s>
+
+// A function that prints Paciente Solidario Increíble Majestuoso Vital
+public void pacienteSolidarioIncreibleMajestuosoVital() {
+	System.out.println("Paciente Solidario Increíble Majestuoso Vital");
+} </s>
+
+// A function that prints Ineludible
+public void ineludible() {
+	System.out.println("Ineludible");
+} </s>
+
+// A function that prints Crucial
+public void crucial() {
+	System.out.println("Crucial");
+} </s>
+
+// A function that prints Hospitalario
+public void hospitalario() {
+	System.out.println("Hospitalario");
+} </s>
+
+// A function that prints Divertido
+public void divertido() {
+	System.out.println("Divertido");
+} </s>
+
+// A function that prints Afable
+public void afable() {
+	System.out.println("Afable");
+} </s>
+
+// A function that prints Cálido
+public void calido() {
+	System.out.println("Cálido");
+} </s>
+
+// A function that prints Valiente
+public void valiente() {
+	System.out.println("Valiente");
+} </s>
+
+// A function that prints Decisivo Tolerante Relevante
+public void decisivoToleranteRelevante() {
+	System.out.println("Decisivo Tolerante Relevante");
+} </s>
+
+// A function that prints Colosal
+public void colosal() {
+	System.out.println("Colosal");
+} </s>
+
+// A function that prints Adiós Cercano Energético
+public void adiosCercanoEnergetico() {
+	System.out.println("Adiós Cercano Energético");
+} </s>
+
+// A function that prints Optimista
+public void optimista() {
+	System.out.println("Optimista");
+} </s>
+
+// A function that prints Dedicado
+public void dedicado() {
+	System.out.println("Dedicado");
+} </s>
+
+// A function that prints Energético
+public void energetico() {
+	System.out.println("Energético");
+} </s>
+
+// A function that prints Entusiasta
+public void entusiasta() {
+	System.out.println("Entusiasta");
+} </s>
+
+// A function that prints Hasta luego Cordial Magnífico Afable Acogedor
+public void hastaLuegoCordialMagnificoAfableAcogedor() {
+	System.out.println("Hasta luego Cordial Magnífico Afable Acogedor");
+} </s>
+
+// A function that prints Firme Virtuoso
+public void firmeVirtuoso() {
+	System.out.println("Firme Virtuoso");
+} </s>
+
+// A function that prints Encantador
+public void encantador() {
+	System.out.println("Encantador");
+} </s>
+
+// A function that prints Simpático
+public void simpatico() {
+	System.out.println("Simpático");
+} </s>
+
+// A function that prints Gracias
+public void gracias() {
+	System.out.println("Gracias");
+} </s>
+
+// A function that prints Estimable
+public void estimable() {
+	System.out.println("Estimable");
+} </s>
+
+// A function that prints Razonable Tolerante Urgente Sensacional Quizás
+public void razonableToleranteUrgenteSensacionalQuizas() {
+	System.out.println("Razonable Tolerante Urgente Sensacional Quizás");
+} </s>
+
+// A function that prints Conmovedor
+public void conmovedor() {
+	System.out.println("Conmovedor");
+} </s>
+
+// A function that prints Ineludible Buenas noches Bien hecho Impresionante Apasionado
+public void ineludibleBuenasNochesBienHechoImpresionanteApasionado() {
+	System.out.println("Ineludible Buenas noches Bien hecho Impresionante Apasionado");
+} </s>
+
+// A function that prints Adiós
+public void adios() {
+	System.out.println("Adiós");
+} </s>
+
+// A function that prints Fenomenal
+public void fenomenal() {
+	System.out.println("Fenomenal");
+} </s>
+
+// A function that prints Fenomenal
+public void fenomenal() {
+	System.out.println("Fenomenal");
+} </s>
+
+// A function that prints Compañero
+public void companero() {
+	System.out.println("Compañero");
+} </s>
+
+// A function that prints Perfecto
+public void perfecto() {
+	System.out.println("Perfecto");
+} </s>
+
+// A function that prints Ferviente
+public void ferviente() {
+	System.out.println("Ferviente");
+} </s>
+
+// A function that prints Fatal
+public void fatal() {
+	System.out.println("Fatal");
+} </s>
+
+// A function that prints Estimable
+public void estimable() {
+	System.out.println("Estimable");
+} </s>
+
+// A function that prints Activo
+public void activo() {
+	System.out.println("Activo");
+} </s>
+
+// A function that prints Resplandeciente
+public void resplandeciente() {
+	System.out.println("Resplandeciente");
+} </s>
+
+// A function that prints Estimable
+public void estimable() {
+	System.out.println("Estimable");
+} </s>
+
+// A function that prints Alegre
+public void alegre() {
+	System.out.println("Alegre");
+} </s>
+
+// A function that prints Necesario
+public void necesario() {
+	System.out.println("Necesario");
+} </s>
+
+// A function that prints Resplandeciente
+public void resplandeciente() {
+	System.out.println("Resplandeciente");
+} </s>
+
+// A function that prints Honesto Magnífico Compañero Afable
+public void honestoMagnificoCompaneroAfable() {
+	System.out.println("Honesto Magnífico Compañero Afable");
+} </s>
+
+// A function that prints Compasivo
+public void compasivo() {
+	System.out.println("Compasivo");
+} </s>
+
+// A function that prints Firme Virtuoso Moral Transparente
+public void firmeVirtuosoMoralTransparente() {
+	System.out.println("Firme Virtuoso Moral Transparente");
+} </s>
+
+// A function that prints Íntegro
+public void integro() {
+	System.out.println("Íntegro");
+} </s>
+
+// A function that prints Dinámico Íntegro Prodigioso Humilde
+public void dinamicoIntegroProdigiosoHumilde() {
+	System.out.println("Dinámico Íntegro Prodigioso Humilde");
+} </s>
+
+// A function that prints Valiente Formidable
+public void valienteFormidable() {
+	System.out.println("Valiente Formidable");
+} </s>
+
+// A function that prints Relevante
+public void relevante() {
+	System.out.println("Relevante");
+} </s>
+
+// A function that prints Amigable
+public void amigable() {
+	System.out.println("Amigable");
+} </s>
+
+// A function that prints Sobresaliente
+public void sobresaliente() {
+	System.out.println("Sobresaliente");
+} </s>
+
+// A function that prints Buenos días
+public void buenosDias() {
+	System.out.println("Buenos días");
+} </s>
+
+// A function that prints Formidable
+public void formidable() {
+	System.out.println("Formidable");
+} </s>
+
+// A function that prints Saludos
+public void saludos() {
+	System.out.println("Saludos");
+} </s>
+
+// A function that prints Vital Activo
+public void vitalActivo() {
+	System.out.println("Vital Activo");
+} </s>
+
+// A function that prints Amistoso
+public void amistoso() {
+	System.out.println("Amistoso");
+} </s>
+
+// A function that prints Imparcial
+public void imparcial() {
+	System.out.println("Imparcial");
+} </s>
+
+// A function that prints Significativo
+public void significativo() {
+	System.out.println("Significativo");
+} </s>
+
+// A function that prints Maravilloso
+public void maravilloso() {
+	System.out.println("Maravilloso");
+} </s>
+
+// A function that prints Fenomenal Persistente Hasta luego Hospitalario Imparcial
+public void fenomenalPersistenteHastaLuegoHospitalarioImparcial() {
+	System.out.println("Fenomenal Persistente Hasta luego Hospitalario Imparcial");
+} </s>
+
+// A function that prints Dinámico
+public void dinamico() {
+	System.out.println("Dinámico");
+} </s>
+
+// A function that prints Perspicaz
+public void perspicaz() {
+	System.out.println("Perspicaz");
+} </s>
+
+// A function that prints Determinante Espectacular
+public void determinanteEspectacular() {
+	System.out.println("Determinante Espectacular");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Ineludible
+public void ineludible() {
+	System.out.println("Ineludible");
+} </s>
+
+// A function that prints Íntegro Precioso
+public void integroPrecioso() {
+	System.out.println("Íntegro Precioso");
+} </s>
+
+// A function that prints Leal
+public void leal() {
+	System.out.println("Leal");
+} </s>
+
+// A function that prints Amable
+public void amable() {
+	System.out.println("Amable");
+} </s>
+
+// A function that prints Cordial Muchas gracias Comprometido Gracias
+public void cordialMuchasGraciasComprometidoGracias() {
+	System.out.println("Cordial Muchas gracias Comprometido Gracias");
+} </s>
+
+// A function that prints Magnífico
+public void magnifico() {
+	System.out.println("Magnífico");
+} </s>
+
+// A function that prints Vibrante
+public void vibrante() {
+	System.out.println("Vibrante");
+} </s>
+
+// A function that prints Razonable Valioso
+public void razonableValioso() {
+	System.out.println("Razonable Valioso");
+} </s>
+
+// A function that prints Prodigioso
+public void prodigioso() {
+	System.out.println("Prodigioso");
+} </s>
+
+// A function that prints Fiel
+public void fiel() {
+	System.out.println("Fiel");
+} </s>
+
+// A function that prints Humilde
+public void humilde() {
+	System.out.println("Humilde");
+} </s>
+
+// A function that prints Firme
+public void firme() {
+	System.out.println("Firme");
+} </s>
+
+// A function that prints Perspicaz Formidable Amable
+public void perspicazFormidableAmable() {
+	System.out.println("Perspicaz Formidable Amable");
+} </s>
+
+// A function that prints Dinámico
+public void dinamico() {
+	System.out.println("Dinámico");
+} </s>
+
+// A function that prints Sensible
+public void sensible() {
+	System.out.println("Sensible");
+} </s>
+
+// A function that prints Amigable
+public void amigable() {
+	System.out.println("Amigable");
+} </s>
+
+// A function that prints Bien hecho
+public void bienHecho() {
+	System.out.println("Bien hecho");
+} </s>
+
+// A function that prints Indispensable Ético Comprometido Fantástico Formidable
+public void indispensableEticoComprometidoFantasticoFormidable() {
+	System.out.println("Indispensable Ético Comprometido Fantástico Formidable");
+} </s>
+
+// A function that prints Sublime
+public void sublime() {
+	System.out.println("Sublime");
+} </s>
+
+// A function that prints Alegre
+public void alegre() {
+	System.out.println("Alegre");
+} </s>
+
+// A function that prints Transparente Decisivo Extraordinario Lo siento Significativo
+public void transparenteDecisivoExtraordinarioLoSientoSignificativo() {
+	System.out.println("Transparente Decisivo Extraordinario Lo siento Significativo");
+} </s>
+
+// A function that prints Fantástico
+public void fantastico() {
+	System.out.println("Fantástico");
+} </s>
+
+// A function that prints Paciente Sensible
+public void pacienteSensible() {
+	System.out.println("Paciente Sensible");
+} </s>
+
+// A function that prints Perspicaz
+public void perspicaz() {
+	System.out.println("Perspicaz");
+} </s>
+
+// A function that prints Amigable Apasionado Significativo
+public void amigableApasionadoSignificativo() {
+	System.out.println("Amigable Apasionado Significativo");
+} </s>
+
+// A function that prints Fenomenal
+public void fenomenal() {
+	System.out.println("Fenomenal");
+} </s>
+
+// A function that prints Amigable
+public void amigable() {
+	System.out.println("Amigable");
+} </s>
+
+// A function that prints Erudito
+public void erudito() {
+	System.out.println("Erudito");
+} </s>
+
+// A function that prints Estimable
+public void estimable() {
+	System.out.println("Estimable");
+} </s>
+
+// A function that prints Estupendo
+public void estupendo() {
+	System.out.println("Estupendo");
+} </s>
+
+// A function that prints Solidario
+public void solidario() {
+	System.out.println("Solidario");
+} </s>
+
+// A function that prints Sí
+public void si() {
+	System.out.println("Sí");
+} </s>
+
+// A function that prints Gracias
+public void gracias() {
+	System.out.println("Gracias");
+} </s>
+
+// A function that prints Irremediable
+public void irremediable() {
+	System.out.println("Irremediable");
+} </s>
+
+// A function that prints Crucial Resuelto
+public void crucialResuelto() {
+	System.out.println("Crucial Resuelto");
+} </s>
+
+// A function that prints Determinante
+public void determinante() {
+	System.out.println("Determinante");
+} </s>
+
+// A function that prints Respetuoso
+public void respetuoso() {
+	System.out.println("Respetuoso");
+} </s>
+
+// A function that prints Energético
+public void energetico() {
+	System.out.println("Energético");
+} </s>
+
+// A function that prints Virtuoso
+public void virtuoso() {
+	System.out.println("Virtuoso");
+} </s>
+
+// A function that prints Espléndido
+public void esplendido() {
+	System.out.println("Espléndido");
+} </s>
+
+// A function that prints Vibrante
+public void vibrante() {
+	System.out.println("Vibrante");
+} </s>
+
+// A function that prints Enriquecedor
+public void enriquecedor() {
+	System.out.println("Enriquecedor");
+} </s>
+
+// A function that prints Prudente
+public void prudente() {
+	System.out.println("Prudente");
+} </s>
+
+// A function that prints Valioso
+public void valioso() {
+	System.out.println("Valioso");
+} </s>
+
+// A function that prints Radiante Vital Saludos
+public void radianteVitalSaludos() {
+	System.out.println("Radiante Vital Saludos");
+} </s>
+
+// A function that prints Empático
+public void empatico() {
+	System.out.println("Empático");
+} </s>
+
+// A function that prints Sorprendente
+public void sorprendente() {
+	System.out.println("Sorprendente");
+} </s>
+
+// A function that prints Transparente
+public void transparente() {
+	System.out.println("Transparente");
+} </s>
+
+// A function that prints Acogedor
+public void acogedor() {
+	System.out.println("Acogedor");
+} </s>
+
+// A function that prints Ético
+public void etico() {
+	System.out.println("Ético");
+} </s>
+
+// A function that prints Alegre
+public void alegre() {
+	System.out.println("Alegre");
+} </s>
+
+// A function that prints Paciente
+public void paciente() {
+	System.out.println("Paciente");
+} </s>
+
+// A function that prints Compañero
+public void companero() {
+	System.out.println("Compañero");
+} </s>
+
+// A function that prints Lo siento
+public void loSiento() {
+	System.out.println("Lo siento");
+} </s>
+
+// A function that prints Amigable
+public void amigable() {
+	System.out.println("Amigable");
+} </s>
+
+// A function that prints Afable Cercano
+public void afableCercano() {
+	System.out.println("Afable Cercano");
+} </s>
+
+// A function that prints Decisivo
+public void decisivo() {
+	System.out.println("Decisivo");
+} </s>
+
+// A function that prints Quizás
+public void quizas() {
+	System.out.println("Quizás");
+} </s>
+
+// A function that prints Excelente
+public void excelente() {
+	System.out.println("Excelente");
+} </s>
+
+// A function that prints Compasivo Formidable Maravilloso Urgente Imparcial
+public void compasivoFormidableMaravillosoUrgenteImparcial() {
+	System.out.println("Compasivo Formidable Maravilloso Urgente Imparcial");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Sí
+public void si() {
+	System.out.println("Sí");
+} </s>
+
+// A function that prints Notable Decisivo Fenomenal Extraordinario
+public void notableDecisivoFenomenalExtraordinario() {
+	System.out.println("Notable Decisivo Fenomenal Extraordinario");
+} </s>
+
+// A function that prints Transparente
+public void transparente() {
+	System.out.println("Transparente");
+} </s>
+
+// A function that prints Modesto
+public void modesto() {
+	System.out.println("Modesto");
+} </s>
+
+// A function that prints Compasivo Esencial
+public void compasivoEsencial() {
+	System.out.println("Compasivo Esencial");
+} </s>
+
+// A function that prints Compasivo
+public void compasivo() {
+	System.out.println("Compasivo");
+} </s>
+
+// A function that prints Espléndido
+public void esplendido() {
+	System.out.println("Espléndido");
+} </s>
+
+// A function that prints Gentil
+public void gentil() {
+	System.out.println("Gentil");
+} </s>
+
+// A function that prints Cortés
+public void cortes() {
+	System.out.println("Cortés");
+} </s>
+
+// A function that prints Necesario
+public void necesario() {
+	System.out.println("Necesario");
+} </s>
+
+// A function that prints Educado Generoso Solidario Determinado
+public void educadoGenerosoSolidarioDeterminado() {
+	System.out.println("Educado Generoso Solidario Determinado");
+} </s>
+
+// A function that prints Justo Precioso Gracias
+public void justoPreciosoGracias() {
+	System.out.println("Justo Precioso Gracias");
+} </s>
+
+// A function that prints Magnánimo
+public void magnanimo() {
+	System.out.println("Magnánimo");
+} </s>
+
+// A function that prints Apasionado
+public void apasionado() {
+	System.out.println("Apasionado");
+} </s>
+
+// A function that prints Maravilloso
+public void maravilloso() {
+	System.out.println("Maravilloso");
+} </s>
+
+// A function that prints Erudito
+public void erudito() {
+	System.out.println("Erudito");
+} </s>
+
+// A function that prints Quizás
+public void quizas() {
+	System.out.println("Quizás");
+} </s>
+
+// A function that prints Increíble
+public void increible() {
+	System.out.println("Increíble");
+} </s>
+
+// A function that prints Comprensivo
+public void comprensivo() {
+	System.out.println("Comprensivo");
+} </s>
+
+// A function that prints Empático
+public void empatico() {
+	System.out.println("Empático");
+} </s>
+
+// A function that prints Impresivo
+public void impresivo() {
+	System.out.println("Impresivo");
+} </s>
+
+// A function that prints Fatal Emocionante Bienvenido Familiar Imparcial
+public void fatalEmocionanteBienvenidoFamiliarImparcial() {
+	System.out.println("Fatal Emocionante Bienvenido Familiar Imparcial");
+} </s>
+
+// A function that prints Sobresaliente
+public void sobresaliente() {
+	System.out.println("Sobresaliente");
+} </s>
+
+// A function that prints Nos vemos Leal Solidario Amistoso
+public void nosVemosLealSolidarioAmistoso() {
+	System.out.println("Nos vemos Leal Solidario Amistoso");
+} </s>
+
+// A function that prints Prodigioso Fundamental Adiós Justo Vital
+public void prodigiosoFundamentalAdiosJustoVital() {
+	System.out.println("Prodigioso Fundamental Adiós Justo Vital");
+} </s>
+
+// A function that prints Notable
+public void notable() {
+	System.out.println("Notable");
+} </s>
+
+// A function that prints Apasionado
+public void apasionado() {
+	System.out.println("Apasionado");
+} </s>
+
+// A function that prints Afable
+public void afable() {
+	System.out.println("Afable");
+} </s>
+
+// A function that prints Determinado
+public void determinado() {
+	System.out.println("Determinado");
+} </s>
+
+// A function that prints Intelectual
+public void intelectual() {
+	System.out.println("Intelectual");
+} </s>
+
+// A function that prints Enriquecedor
+public void enriquecedor() {
+	System.out.println("Enriquecedor");
+} </s>
+
+// A function that prints Relevante
+public void relevante() {
+	System.out.println("Relevante");
+} </s>
+
+// A function that prints Impresivo
+public void impresivo() {
+	System.out.println("Impresivo");
+} </s>
+
+// A function that prints Por favor
+public void porFavor() {
+	System.out.println("Por favor");
+} </s>
+
+// A function that prints Clave
+public void clave() {
+	System.out.println("Clave");
+} </s>
+
+// A function that prints Relevante
+public void relevante() {
+	System.out.println("Relevante");
+} </s>
+
+// A function that prints Crucial
+public void crucial() {
+	System.out.println("Crucial");
+} </s>
+
+// A function that prints Colosal
+public void colosal() {
+	System.out.println("Colosal");
+} </s>
+
+// A function that prints Fabuloso
+public void fabuloso() {
+	System.out.println("Fabuloso");
+} </s>
+
+// A function that prints Quizás
+public void quizas() {
+	System.out.println("Quizás");
+} </s>
+
+// A function that prints Buenos días
+public void buenosDias() {
+	System.out.println("Buenos días");
+} </s>
+
+// A function that prints Quizás
+public void quizas() {
+	System.out.println("Quizás");
+} </s>
+
+// A function that prints Sensible
+public void sensible() {
+	System.out.println("Sensible");
+} </s>
+
+// A function that prints Valiente
+public void valiente() {
+	System.out.println("Valiente");
+} </s>
+
+// A function that prints Impresionante
+public void impresionante() {
+	System.out.println("Impresionante");
+} </s>
+
+// A function that prints Erudito
+public void erudito() {
+	System.out.println("Erudito");
+} </s>
+
+// A function that prints Inteligente
+public void inteligente() {
+	System.out.println("Inteligente");
+} </s>
+
+// A function that prints Educado
+public void educado() {
+	System.out.println("Educado");
+} </s>
+
+// A function that prints Amigable
+public void amigable() {
+	System.out.println("Amigable");
+} </s>
+
+// A function that prints Emocionante Saludos Estimable Increíble
+public void emocionanteSaludosEstimableIncreible() {
+	System.out.println("Emocionante Saludos Estimable Increíble");
+} </s>
+
+// A function that prints Está bien Colosal Fenomenal Sensacional Altruista
+public void estaBienColosalFenomenalSensacionalAltruista() {
+	System.out.println("Está bien Colosal Fenomenal Sensacional Altruista");
+} </s>
+
+// A function that prints Fenomenal
+public void fenomenal() {
+	System.out.println("Fenomenal");
+} </s>
+
+// A function that prints Ferviente
+public void ferviente() {
+	System.out.println("Ferviente");
+} </s>
+
+// A function that prints Sublime
+public void sublime() {
+	System.out.println("Sublime");
+} </s>
+
+// A function that prints Necesario
+public void necesario() {
+	System.out.println("Necesario");
+} </s>
+
+// A function that prints Buenos días
+public void buenosDias() {
+	System.out.println("Buenos días");
+} </s>
+
+// A function that prints Emotivo
+public void emotivo() {
+	System.out.println("Emotivo");
+} </s>
+
+// A function that prints Brillante
+public void brillante() {
+	System.out.println("Brillante");
+} </s>
+
+// A function that prints Ineludible
+public void ineludible() {
+	System.out.println("Ineludible");
+} </s>
+
+// A function that prints Entusiasta
+public void entusiasta() {
+	System.out.println("Entusiasta");
+} </s>
+
+// A function that prints Intenso
+public void intenso() {
+	System.out.println("Intenso");
+} </s>
+
+// A function that prints Excelente
+public void excelente() {
+	System.out.println("Excelente");
+} </s>
+
+// A function that prints Fabuloso
+public void fabuloso() {
+	System.out.println("Fabuloso");
+} </s>
+
+// A function that prints Encantador
+public void encantador() {
+	System.out.println("Encantador");
+} </s>
+
+// A function that prints Intenso
+public void intenso() {
+	System.out.println("Intenso");
+} </s>
+
+// A function that prints Magnífico
+public void magnifico() {
+	System.out.println("Magnífico");
+} </s>
+
+// A function that prints Generoso Acogedor Vital Sí Bienvenido
+public void generosoAcogedorVitalSiBienvenido() {
+	System.out.println("Generoso Acogedor Vital Sí Bienvenido");
+} </s>
+
+// A function that prints Urgente
+public void urgente() {
+	System.out.println("Urgente");
+} </s>
+
+// A function that prints Amistoso
+public void amistoso() {
+	System.out.println("Amistoso");
+} </s>
+
+// A function that prints Precioso
+public void precioso() {
+	System.out.println("Precioso");
+} </s>
+
+// A function that prints Ardiente Vital Humanitario
+public void ardienteVitalHumanitario() {
+	System.out.println("Ardiente Vital Humanitario");
+} </s>
+
+// A function that prints Intelectual
+public void intelectual() {
+	System.out.println("Intelectual");
+} </s>
+
+// A function that prints Sorprendente
+public void sorprendente() {
+	System.out.println("Sorprendente");
+} </s>
+
+// A function that prints Amable
+public void amable() {
+	System.out.println("Amable");
+} </s>
+
+// A function that prints Buenas noches
+public void buenasNoches() {
+	System.out.println("Buenas noches");
+} </s>
+
+// A function that prints Activo
+public void activo() {
+	System.out.println("Activo");
+} </s>
+
+// A function that prints Conmovedor
+public void conmovedor() {
+	System.out.println("Conmovedor");
+} </s>
+
+// A function that prints Enriquecedor
+public void enriquecedor() {
+	System.out.println("Enriquecedor");
+} </s>
+
+// A function that prints Asombroso Cercano Resplandeciente Alucinante
+public void asombrosoCercanoResplandecienteAlucinante() {
+	System.out.println("Asombroso Cercano Resplandeciente Alucinante");
+} </s>
+
+// A function that prints Alucinante Buenas noches Ardiente Intelectual Divertido
+public void alucinanteBuenasNochesArdienteIntelectualDivertido() {
+	System.out.println("Alucinante Buenas noches Ardiente Intelectual Divertido");
+} </s>
+
+// A function that prints Amistoso
+public void amistoso() {
+	System.out.println("Amistoso");
+} </s>
+
+// A function that prints Cortés Amigable Espléndido
+public void cortesAmigableEsplendido() {
+	System.out.println("Cortés Amigable Espléndido");
+} </s>
+
+// A function that prints Cercano
+public void cercano() {
+	System.out.println("Cercano");
+} </s>
+
+// A function that prints Formidable
+public void formidable() {
+	System.out.println("Formidable");
+} </s>
+
+// A function that prints Moral
+public void moral() {
+	System.out.println("Moral");
+} </s>
+
+// A function that prints Obligatorio Responsable Prudente
+public void obligatorioResponsablePrudente() {
+	System.out.println("Obligatorio Responsable Prudente");
+} </s>
+
+// A function that prints Cercano
+public void cercano() {
+	System.out.println("Cercano");
+} </s>
+
+// A function that prints Dedicado
+public void dedicado() {
+	System.out.println("Dedicado");
+} </s>
+
+// A function that prints Simpático Paciente
+public void simpaticoPaciente() {
+	System.out.println("Simpático Paciente");
+} </s>
+
+// A function that prints Decisivo
+public void decisivo() {
+	System.out.println("Decisivo");
+} </s>
+
+// A function that prints Simpático Valiente ¿cómo estás? Sí
+public void simpaticoValiente¿ComoEstas?Si() {
+	System.out.println("Simpático Valiente ¿cómo estás? Sí");
+} </s>
+
+// A function that prints Brillante
+public void brillante() {
+	System.out.println("Brillante");
+} </s>
+
+// A function that prints Comprometido Energético Conmovedor Compasivo Tenaz
+public void comprometidoEnergeticoConmovedorCompasivoTenaz() {
+	System.out.println("Comprometido Energético Conmovedor Compasivo Tenaz");
+} </s>
+
+// A function that prints Alucinante
+public void alucinante() {
+	System.out.println("Alucinante");
+} </s>
+
+// A function that prints Formidable
+public void formidable() {
+	System.out.println("Formidable");
+} </s>
+
+// A function that prints Fundamental
+public void fundamental() {
+	System.out.println("Fundamental");
+} </s>
+
+// A function that prints Conmovedor
+public void conmovedor() {
+	System.out.println("Conmovedor");
+} </s>
+
+// A function that prints Prudente
+public void prudente() {
+	System.out.println("Prudente");
+} </s>
+
+// A function that prints Alucinante
+public void alucinante() {
+	System.out.println("Alucinante");
+} </s>
+
+// A function that prints Brillante Afable Espectacular Perspicaz Clave
+public void brillanteAfableEspectacularPerspicazClave() {
+	System.out.println("Brillante Afable Espectacular Perspicaz Clave");
+} </s>
+
+// A function that prints ¿cómo estás?
+public void ¿ComoEstas?() {
+	System.out.println("¿cómo estás?");
+} </s>
+
+// A function that prints Magnífico
+public void magnifico() {
+	System.out.println("Magnífico");
+} </s>
+
+// A function that prints Relevante
+public void relevante() {
+	System.out.println("Relevante");
+} </s>
+
+// A function that prints Notable
+public void notable() {
+	System.out.println("Notable");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Humanitario
+public void humanitario() {
+	System.out.println("Humanitario");
+} </s>
+
+// A function that prints Dedicado
+public void dedicado() {
+	System.out.println("Dedicado");
+} </s>
+
+// A function that prints Moral
+public void moral() {
+	System.out.println("Moral");
+} </s>
+
+// A function that prints Alegre
+public void alegre() {
+	System.out.println("Alegre");
+} </s>
+
+// A function that prints Atractivo
+public void atractivo() {
+	System.out.println("Atractivo");
+} </s>
+
+// A function that prints Notable
+public void notable() {
+	System.out.println("Notable");
+} </s>
+
+// A function that prints Acogedor
+public void acogedor() {
+	System.out.println("Acogedor");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Prudente
+public void prudente() {
+	System.out.println("Prudente");
+} </s>
+
+// A function that prints Humilde
+public void humilde() {
+	System.out.println("Humilde");
+} </s>
+
+// A function that prints Perdón
+public void perdon() {
+	System.out.println("Perdón");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Hermoso
+public void hermoso() {
+	System.out.println("Hermoso");
+} </s>
+
+// A function that prints Dedicado
+public void dedicado() {
+	System.out.println("Dedicado");
+} </s>
+
+// A function that prints Genial
+public void genial() {
+	System.out.println("Genial");
+} </s>
+
+// A function that prints Humanitario
+public void humanitario() {
+	System.out.println("Humanitario");
+} </s>
+
+// A function that prints Por favor
+public void porFavor() {
+	System.out.println("Por favor");
+} </s>
+
+// A function that prints Profundo Fantástico
+public void profundoFantastico() {
+	System.out.println("Profundo Fantástico");
+} </s>
+
+// A function that prints Ferviente
+public void ferviente() {
+	System.out.println("Ferviente");
+} </s>
+
+// A function that prints Colosal Sensible Intenso Saludos
+public void colosalSensibleIntensoSaludos() {
+	System.out.println("Colosal Sensible Intenso Saludos");
+} </s>
+
+// A function that prints Firme
+public void firme() {
+	System.out.println("Firme");
+} </s>
+
+// A function that prints Tenaz
+public void tenaz() {
+	System.out.println("Tenaz");
+} </s>
+
+// A function that prints Divertido Majestuoso Clave Cordial Impresivo
+public void divertidoMajestuosoClaveCordialImpresivo() {
+	System.out.println("Divertido Majestuoso Clave Cordial Impresivo");
+} </s>
+
+// A function that prints Solidario
+public void solidario() {
+	System.out.println("Solidario");
+} </s>
+
+// A function that prints Irremediable Solidario Obligatorio Excelente ¿cómo estás?
+public void irremediableSolidarioObligatorioExcelente¿ComoEstas?() {
+	System.out.println("Irremediable Solidario Obligatorio Excelente ¿cómo estás?");
+} </s>
+
+// A function that prints Fiel
+public void fiel() {
+	System.out.println("Fiel");
+} </s>
+
+// A function that prints Excelente Fabuloso Espectacular
+public void excelenteFabulosoEspectacular() {
+	System.out.println("Excelente Fabuloso Espectacular");
+} </s>
+
+// A function that prints Notable
+public void notable() {
+	System.out.println("Notable");
+} </s>
+
+// A function that prints Considerado
+public void considerado() {
+	System.out.println("Considerado");
+} </s>
+
+// A function that prints Bienvenido
+public void bienvenido() {
+	System.out.println("Bienvenido");
+} </s>
+
+// A function that prints Muchas gracias
+public void muchasGracias() {
+	System.out.println("Muchas gracias");
+} </s>
+
+// A function that prints Fundamental
+public void fundamental() {
+	System.out.println("Fundamental");
+} </s>
+
+// A function that prints Formidable
+public void formidable() {
+	System.out.println("Formidable");
+} </s>
+
+// A function that prints Impresivo Hasta luego Saludos
+public void impresivoHastaLuegoSaludos() {
+	System.out.println("Impresivo Hasta luego Saludos");
+} </s>
+
+// A function that prints Estupendo
+public void estupendo() {
+	System.out.println("Estupendo");
+} </s>
+
+// A function that prints Simpático
+public void simpatico() {
+	System.out.println("Simpático");
+} </s>
+
+// A function that prints Solidario Persistente Educado Simpático Ardiente
+public void solidarioPersistenteEducadoSimpaticoArdiente() {
+	System.out.println("Solidario Persistente Educado Simpático Ardiente");
+} </s>
+
+// A function that prints Dedicado
+public void dedicado() {
+	System.out.println("Dedicado");
+} </s>
+
+// A function that prints Amigable Responsable Hospitalario Adiós
+public void amigableResponsableHospitalarioAdios() {
+	System.out.println("Amigable Responsable Hospitalario Adiós");
+} </s>
+
+// A function that prints Buenos días Enriquecedor Resiliente
+public void buenosDiasEnriquecedorResiliente() {
+	System.out.println("Buenos días Enriquecedor Resiliente");
+} </s>
+
+// A function that prints Atractivo
+public void atractivo() {
+	System.out.println("Atractivo");
+} </s>
+
+// A function that prints Enriquecedor
+public void enriquecedor() {
+	System.out.println("Enriquecedor");
+} </s>
+
+// A function that prints Estimable
+public void estimable() {
+	System.out.println("Estimable");
+} </s>
+
+// A function that prints Valiente Razonable
+public void valienteRazonable() {
+	System.out.println("Valiente Razonable");
+} </s>
+
+// A function that prints Por favor Impresivo Honesto Determinante
+public void porFavorImpresivoHonestoDeterminante() {
+	System.out.println("Por favor Impresivo Honesto Determinante");
+} </s>
+
+// A function that prints Acogedor
+public void acogedor() {
+	System.out.println("Acogedor");
+} </s>
+
+// A function that prints Sensible Genial Humilde Honesto Íntegro
+public void sensibleGenialHumildeHonestoIntegro() {
+	System.out.println("Sensible Genial Humilde Honesto Íntegro");
+} </s>
+
+// A function that prints Admirable
+public void admirable() {
+	System.out.println("Admirable");
+} </s>
+
+// A function that prints Perdón
+public void perdon() {
+	System.out.println("Perdón");
+} </s>
+
+// A function that prints Cálido
+public void calido() {
+	System.out.println("Cálido");
+} </s>
+
+// A function that prints Urgente
+public void urgente() {
+	System.out.println("Urgente");
+} </s>
+
+// A function that prints Justo
+public void justo() {
+	System.out.println("Justo");
+} </s>
+
+// A function that prints Fundamental
+public void fundamental() {
+	System.out.println("Fundamental");
+} </s>
+
+// A function that prints Inteligente
+public void inteligente() {
+	System.out.println("Inteligente");
+} </s>
+
+// A function that prints Indispensable
+public void indispensable() {
+	System.out.println("Indispensable");
+} </s>
+
+// A function that prints Atractivo
+public void atractivo() {
+	System.out.println("Atractivo");
+} </s>
+
+// A function that prints Maravilloso
+public void maravilloso() {
+	System.out.println("Maravilloso");
+} </s>
+
+// A function that prints Fascinante
+public void fascinante() {
+	System.out.println("Fascinante");
+} </s>
+
+// A function that prints Ineludible
+public void ineludible() {
+	System.out.println("Ineludible");
+} </s>
+
+// A function that prints Adiós Emotivo
+public void adiosEmotivo() {
+	System.out.println("Adiós Emotivo");
+} </s>
+
+// A function that prints Gentil
+public void gentil() {
+	System.out.println("Gentil");
+} </s>
+
+// A function that prints Fiel
+public void fiel() {
+	System.out.println("Fiel");
+} </s>
+
+// A function that prints Cálido
+public void calido() {
+	System.out.println("Cálido");
+} </s>
+
+// A function that prints Afable Muchas gracias Moral Responsable Ardiente
+public void afableMuchasGraciasMoralResponsableArdiente() {
+	System.out.println("Afable Muchas gracias Moral Responsable Ardiente");
+} </s>
+
+// A function that prints Familiar
+public void familiar() {
+	System.out.println("Familiar");
+} </s>
+
+// A function that prints Considerado
+public void considerado() {
+	System.out.println("Considerado");
+} </s>
+
+// A function that prints Imparcial
+public void imparcial() {
+	System.out.println("Imparcial");
+} </s>
+
+// A function that prints Sublime
+public void sublime() {
+	System.out.println("Sublime");
+} </s>
+
+// A function that prints Modesto
+public void modesto() {
+	System.out.println("Modesto");
+} </s>
+
+// A function that prints Compasivo Maravilloso Enriquecedor Apasionado
+public void compasivoMaravillosoEnriquecedorApasionado() {
+	System.out.println("Compasivo Maravilloso Enriquecedor Apasionado");
+} </s>
+
+// A function that prints Extraordinario
+public void extraordinario() {
+	System.out.println("Extraordinario");
+} </s>
+
+// A function that prints Magnánimo
+public void magnanimo() {
+	System.out.println("Magnánimo");
+} </s>
+
+// A function that prints Comprensivo
+public void comprensivo() {
+	System.out.println("Comprensivo");
+} </s>
+
+// A function that prints Caritativo
+public void caritativo() {
+	System.out.println("Caritativo");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Optimista Espléndido Familiar
+public void optimistaEsplendidoFamiliar() {
+	System.out.println("Optimista Espléndido Familiar");
+} </s>
+
+// A function that prints Empático
+public void empatico() {
+	System.out.println("Empático");
+} </s>
+
+// A function that prints Comprometido Cuidado
+public void comprometidoCuidado() {
+	System.out.println("Comprometido Cuidado");
+} </s>
+
+// A function that prints Hospitalario
+public void hospitalario() {
+	System.out.println("Hospitalario");
+} </s>
+
+// A function that prints Sobresaliente
+public void sobresaliente() {
+	System.out.println("Sobresaliente");
+} </s>
+
+// A function that prints Maravilloso
+public void maravilloso() {
+	System.out.println("Maravilloso");
+} </s>
+
+// A function that prints Dedicado
+public void dedicado() {
+	System.out.println("Dedicado");
+} </s>
+
+// A function that prints Alucinante
+public void alucinante() {
+	System.out.println("Alucinante");
+} </s>
+
+// A function that prints Alucinante
+public void alucinante() {
+	System.out.println("Alucinante");
+} </s>
+
+// A function that prints Persistente
+public void persistente() {
+	System.out.println("Persistente");
+} </s>
+
+// A function that prints Cortés
+public void cortes() {
+	System.out.println("Cortés");
+} </s>
+
+// A function that prints Colosal
+public void colosal() {
+	System.out.println("Colosal");
+} </s>
+
+// A function that prints Extraordinario
+public void extraordinario() {
+	System.out.println("Extraordinario");
+} </s>
+
+// A function that prints Importante
+public void importante() {
+	System.out.println("Importante");
+} </s>
+
+// A function that prints Espectacular
+public void espectacular() {
+	System.out.println("Espectacular");
+} </s>
+
+// A function that prints Radiante
+public void radiante() {
+	System.out.println("Radiante");
+} </s>
+
+// A function that prints Moral
+public void moral() {
+	System.out.println("Moral");
+} </s>
+
+// A function that prints Gentil
+public void gentil() {
+	System.out.println("Gentil");
+} </s>
+
+// A function that prints Magnífico Bien hecho Bondadoso Emotivo Erudito
+public void magnificoBienHechoBondadosoEmotivoErudito() {
+	System.out.println("Magnífico Bien hecho Bondadoso Emotivo Erudito");
+} </s>
+
+// A function that prints Fiel
+public void fiel() {
+	System.out.println("Fiel");
+} </s>
+
+// A function that prints No
+public void no() {
+	System.out.println("No");
+} </s>
+
+// A function that prints Alucinante
+public void alucinante() {
+	System.out.println("Alucinante");
+} </s>
+
+// A function that prints Emocionante
+public void emocionante() {
+	System.out.println("Emocionante");
+} </s>
+
+// A function that prints Inteligente
+public void inteligente() {
+	System.out.println("Inteligente");
+} </s>
+
+// A function that prints Intenso Cortés Comprometido Lo siento Determinado
+public void intensoCortesComprometidoLoSientoDeterminado() {
+	System.out.println("Intenso Cortés Comprometido Lo siento Determinado");
+} </s>
+
+// A function that prints Por favor
+public void porFavor() {
+	System.out.println("Por favor");
+} </s>
+
+// A function that prints Valioso Crucial Bienvenido Solidario Optimista
+public void valiosoCrucialBienvenidoSolidarioOptimista() {
+	System.out.println("Valioso Crucial Bienvenido Solidario Optimista");
+} </s>
+
+// A function that prints Espectacular
+public void espectacular() {
+	System.out.println("Espectacular");
+} </s>
+
+// A function that prints Urgente
+public void urgente() {
+	System.out.println("Urgente");
+} </s>
+
+// A function that prints Vital
+public void vital() {
+	System.out.println("Vital");
+} </s>
+
+// A function that prints Maravilloso
+public void maravilloso() {
+	System.out.println("Maravilloso");
+} </s>
+
+// A function that prints Fabuloso
+public void fabuloso() {
+	System.out.println("Fabuloso");
+} </s>
+
+// A function that prints Espléndido
+public void esplendido() {
+	System.out.println("Espléndido");
+} </s>
+
+// A function that prints Honesto
+public void honesto() {
+	System.out.println("Honesto");
+} </s>
+
+// A function that prints Modesto
+public void modesto() {
+	System.out.println("Modesto");
+} </s>
+
+// A function that prints Precioso Intelectual Humanitario
+public void preciosoIntelectualHumanitario() {
+	System.out.println("Precioso Intelectual Humanitario");
+} </s>
+
+// A function that prints Inevitable
+public void inevitable() {
+	System.out.println("Inevitable");
+} </s>
+
+// A function that prints Altruista
+public void altruista() {
+	System.out.println("Altruista");
+} </s>
+
+// A function that prints Firme
+public void firme() {
+	System.out.println("Firme");
+} </s>
+
+// A function that prints Afable
+public void afable() {
+	System.out.println("Afable");
+} </s>
+
+// A function that prints Espléndido
+public void esplendido() {
+	System.out.println("Espléndido");
+} </s>
+
+// A function that prints Saludos
+public void saludos() {
+	System.out.println("Saludos");
+} </s>
+
+// A function that prints Perspicaz
+public void perspicaz() {
+	System.out.println("Perspicaz");
+} </s>
+
+// A function that prints Optimista
+public void optimista() {
+	System.out.println("Optimista");
+} </s>
+
+// A function that prints Transparente
+public void transparente() {
+	System.out.println("Transparente");
+} </s>
+
+// A function that prints Sorprendente
+public void sorprendente() {
+	System.out.println("Sorprendente");
+} </s>
+
+// A function that prints Cortés Elocuente Precioso Cordial Admirable
+public void cortesElocuentePreciosoCordialAdmirable() {
+	System.out.println("Cortés Elocuente Precioso Cordial Admirable");
+} </s>
+
+// A function that prints Tenaz
+public void tenaz() {
+	System.out.println("Tenaz");
+} </s>
+
+// A function that prints Honesto
+public void honesto() {
+	System.out.println("Honesto");
+} </s>
+
+// A function that prints Afable Magnífico Elocuente Honesto
+public void afableMagnificoElocuenteHonesto() {
+	System.out.println("Afable Magnífico Elocuente Honesto");
+} </s>
+
+// A function that prints Muchas gracias Alegre
+public void muchasGraciasAlegre() {
+	System.out.println("Muchas gracias Alegre");
+} </s>
+
+// A function that prints Fatal
+public void fatal() {
+	System.out.println("Fatal");
+} </s>
+
+// A function that prints Determinante Comprometido Formidable
+public void determinanteComprometidoFormidable() {
+	System.out.println("Determinante Comprometido Formidable");
+} </s>
+
+// A function that prints Fiel
+public void fiel() {
+	System.out.println("Fiel");
+} </s>
+
+// A function that prints Dedicado
+public void dedicado() {
+	System.out.println("Dedicado");
+} </s>
+
+// A function that prints Fabuloso
+public void fabuloso() {
+	System.out.println("Fabuloso");
+} </s>
+
+// A function that prints Tolerante
+public void tolerante() {
+	System.out.println("Tolerante");
+} </s>
+
+// A function that prints Necesario
+public void necesario() {
+	System.out.println("Necesario");
+} </s>
+
+// A function that prints Persistente
+public void persistente() {
+	System.out.println("Persistente");
+} </s>
+
+// A function that prints Bondadoso
+public void bondadoso() {
+	System.out.println("Bondadoso");
+} </s>
+
+// A function that prints Perspicaz Perdón
+public void perspicazPerdon() {
+	System.out.println("Perspicaz Perdón");
+} </s>
+
+// A function that prints Justo
+public void justo() {
+	System.out.println("Justo");
+} </s>
+
+// A function that prints Acogedor
+public void acogedor() {
+	System.out.println("Acogedor");
+} </s>
+
+// A function that prints Íntegro
+public void integro() {
+	System.out.println("Íntegro");
+} </s>
+
+// A function that prints Prodigioso
+public void prodigioso() {
+	System.out.println("Prodigioso");
+} </s>
+
+// A function that prints Vibrante
+public void vibrante() {
+	System.out.println("Vibrante");
+} </s>
+
+// A function that prints Hospitalario
+public void hospitalario() {
+	System.out.println("Hospitalario");
+} </s>
+
+// A function that prints Transparente
+public void transparente() {
+	System.out.println("Transparente");
+} </s>
+
+// A function that prints Hola
+public void hola() {
+	System.out.println("Hola");
+} </s>
+
+// A function that prints Solidario
+public void solidario() {
+	System.out.println("Solidario");
+} </s>
+
+// A function that prints Sensible
+public void sensible() {
+	System.out.println("Sensible");
+} </s>
+
+// A function that prints Buenas noches
+public void buenasNoches() {
+	System.out.println("Buenas noches");
+} </s>
+
+// A function that prints Brillante
+public void brillante() {
+	System.out.println("Brillante");
+} </s>
+
+// A function that prints Sobresaliente Afable Increíble
+public void sobresalienteAfableIncreible() {
+	System.out.println("Sobresaliente Afable Increíble");
+} </s>
+
+// A function that prints Tenaz
+public void tenaz() {
+	System.out.println("Tenaz");
+} </s>
+
+// A function that prints Estimable
+public void estimable() {
+	System.out.println("Estimable");
+} </s>
+
+// A function that prints Cálido
+public void calido() {
+	System.out.println("Cálido");
+} </s>
+
+// A function that prints Resiliente
+public void resiliente() {
+	System.out.println("Resiliente");
+} </s>
+
+// A function that prints ¿cómo estás?
+public void ¿ComoEstas?() {
+	System.out.println("¿cómo estás?");
+} </s>
+
+// A function that prints De acuerdo
+public void deAcuerdo() {
+	System.out.println("De acuerdo");
+} </s>
+
+// A function that prints Impresionante Fabuloso
+public void impresionanteFabuloso() {
+	System.out.println("Impresionante Fabuloso");
+} </s>
+
+// A function that prints Imperativo
+public void imperativo() {
+	System.out.println("Imperativo");
+} </s>
+
+// A function that prints Admirable
+public void admirable() {
+	System.out.println("Admirable");
+} </s>
+
+// A function that prints Sobresaliente
+public void sobresaliente() {
+	System.out.println("Sobresaliente");
+} </s>
+
+// A function that prints Modesto
+public void modesto() {
+	System.out.println("Modesto");
+} </s>
+
+// A function that prints Fabuloso Trascendental Razonable Fatal
+public void fabulosoTrascendentalRazonableFatal() {
+	System.out.println("Fabuloso Trascendental Razonable Fatal");
+} </s>
+
+// A function that prints Sí
+public void si() {
+	System.out.println("Sí");
+} </s>
+
+// A function that prints Dinámico
+public void dinamico() {
+	System.out.println("Dinámico");
+} </s>
+
+// A function that prints Intenso
+public void intenso() {
+	System.out.println("Intenso");
+} </s>
+
+// A function that prints Íntegro
+public void integro() {
+	System.out.println("Íntegro");
+} </s>
+
+// A function that prints Firme
+public void firme() {
+	System.out.println("Firme");
+} </s>
+
+// A function that prints Tolerante
+public void tolerante() {
+	System.out.println("Tolerante");
+} </s>
+
+// A function that prints Por favor
+public void porFavor() {
+	System.out.println("Por favor");
+} </s>
+
+// A function that prints Prudente
+public void prudente() {
+	System.out.println("Prudente");
+} </s>
+
+// A function that prints Clave
+public void clave() {
+	System.out.println("Clave");
+} </s>
+
+// A function that prints Conmovedor
+public void conmovedor() {
+	System.out.println("Conmovedor");
+} </s>
+
+// A function that prints Vibrante Responsable Buenas noches
+public void vibranteResponsableBuenasNoches() {
+	System.out.println("Vibrante Responsable Buenas noches");
+} </s>
+
+// A function that prints Clave
+public void clave() {
+	System.out.println("Clave");
+} </s>
+
+// A function that prints Considerado
+public void considerado() {
+	System.out.println("Considerado");
+} </s>
+
+// A function that prints Noble
+public void noble() {
+	System.out.println("Noble");
+} </s>
+
+// A function that prints Honesto
+public void honesto() {
+	System.out.println("Honesto");
+} </s>
+
+// A function that prints Necesario
+public void necesario() {
+	System.out.println("Necesario");
+} </s>
+
+// A function that prints Estimable
+public void estimable() {
+	System.out.println("Estimable");
+} </s>
+
+// A function that prints Cortés
+public void cortes() {
+	System.out.println("Cortés");
+} </s>
+
+// A function that prints Imperativo Fantástico Enriquecedor Buenas noches Trascendental
+public void imperativoFantasticoEnriquecedorBuenasNochesTrascendental() {
+	System.out.println("Imperativo Fantástico Enriquecedor Buenas noches Trascendental");
+} </s>
+
+// A function that prints Dinámico
+public void dinamico() {
+	System.out.println("Dinámico");
+} </s>
+
+// A function that prints Imperativo
+public void imperativo() {
+	System.out.println("Imperativo");
+} </s>
+
+// A function that prints Valiente
+public void valiente() {
+	System.out.println("Valiente");
+} </s>
+
+// A function that prints Hermoso
+public void hermoso() {
+	System.out.println("Hermoso");
+} </s>
+
+// A function that prints Sensacional
+public void sensacional() {
+	System.out.println("Sensacional");
+} </s>
+
+// A function that prints Caritativo
+public void caritativo() {
+	System.out.println("Caritativo");
+} </s>
+
+// A function that prints Cálido
+public void calido() {
+	System.out.println("Cálido");
+} </s>
+
+// A function that prints Imparcial Excelente Bienvenido Paciente
+public void imparcialExcelenteBienvenidoPaciente() {
+	System.out.println("Imparcial Excelente Bienvenido Paciente");
+} </s>
+
+// A function that prints Divertido
+public void divertido() {
+	System.out.println("Divertido");
+} </s>
+
+// A function that prints Resuelto
+public void resuelto() {
+	System.out.println("Resuelto");
+} </s>
+
+// A function that prints Emotivo
+public void emotivo() {
+	System.out.println("Emotivo");
+} </s>
+
+// A function that prints Imparcial
+public void imparcial() {
+	System.out.println("Imparcial");
+} </s>
+
+// A function that prints Transparente
+public void transparente() {
+	System.out.println("Transparente");
+} </s>
+
+// A function that prints Saludos
+public void saludos() {
+	System.out.println("Saludos");
+} </s>
+
+// A function that prints Imparcial
+public void imparcial() {
+	System.out.println("Imparcial");
+} </s>
+
+// A function that prints Adiós
+public void adios() {
+	System.out.println("Adiós");
+} </s>
+
+// A function that prints Afable
+public void afable() {
+	System.out.println("Afable");
+} </s>
+
+// A function that prints Precioso
+public void precioso() {
+	System.out.println("Precioso");
+} </s>
+
+// A function that prints De acuerdo
+public void deAcuerdo() {
+	System.out.println("De acuerdo");
+} </s>
+
+// A function that prints Conmovedor
+public void conmovedor() {
+	System.out.println("Conmovedor");
+} </s>
+
+// A function that prints Fascinante Afable Increíble Bienvenido Ferviente
+public void fascinanteAfableIncreibleBienvenidoFerviente() {
+	System.out.println("Fascinante Afable Increíble Bienvenido Ferviente");
+} </s>
+
+// A function that prints Resplandeciente
+public void resplandeciente() {
+	System.out.println("Resplandeciente");
+} </s>
+
+// A function that prints Alucinante
+public void alucinante() {
+	System.out.println("Alucinante");
+} </s>
+
+// A function that prints Importante Esencial
+public void importanteEsencial() {
+	System.out.println("Importante Esencial");
+} </s>
+
+// A function that prints Asombroso
+public void asombroso() {
+	System.out.println("Asombroso");
+} </s>
+
+// A function that prints Ardiente
+public void ardiente() {
+	System.out.println("Ardiente");
+} </s>
+
+// A function that prints Erudito Perdón
+public void eruditoPerdon() {
+	System.out.println("Erudito Perdón");
+} </s>
+
+// A function that prints Generoso Decisivo
+public void generosoDecisivo() {
+	System.out.println("Generoso Decisivo");
+} </s>
+
+// A function that prints Dinámico
+public void dinamico() {
+	System.out.println("Dinámico");
+} </s>
+
+// A function that prints Saludos Acogedor
+public void saludosAcogedor() {
+	System.out.println("Saludos Acogedor");
+} </s>
+
+// A function that prints Fiel
+public void fiel() {
+	System.out.println("Fiel");
+} </s>
+
+// A function that prints Humilde
+public void humilde() {
+	System.out.println("Humilde");
+} </s>
+
+// A function that prints Generoso
+public void generoso() {
+	System.out.println("Generoso");
+} </s>
+
+// A function that prints Radiante
+public void radiante() {
+	System.out.println("Radiante");
+} </s>
+
+// A function that prints Significativo Vital
+public void significativoVital() {
+	System.out.println("Significativo Vital");
+} </s>
+
+// A function that prints Enriquecedor
+public void enriquecedor() {
+	System.out.println("Enriquecedor");
+} </s>
+
+// A function that prints Amable Valiente Inteligente Respetuoso
+public void amableValienteInteligenteRespetuoso() {
+	System.out.println("Amable Valiente Inteligente Respetuoso");
+} </s>
+
+// A function that prints Altruista Solidario
+public void altruistaSolidario() {
+	System.out.println("Altruista Solidario");
+} </s>
+
+// A function that prints Sabio
+public void sabio() {
+	System.out.println("Sabio");
+} </s>
+
+// A function that prints Notable Conmovedor
+public void notableConmovedor() {
+	System.out.println("Notable Conmovedor");
+} </s>
+
+// A function that prints Lo siento
+public void loSiento() {
+	System.out.println("Lo siento");
+} </s>
+
+// A function that prints Generoso
+public void generoso() {
+	System.out.println("Generoso");
+} </s>
+
+// A function that prints Afable
+public void afable() {
+	System.out.println("Afable");
+} </s>
+
+// A function that prints Estupendo
+public void estupendo() {
+	System.out.println("Estupendo");
+} </s>
+
+// A function that prints No
+public void no() {
+	System.out.println("No");
+} </s>
+
+// A function that prints Altruista
+public void altruista() {
+	System.out.println("Altruista");
+} </s>
+
+// A function that prints Solidario
+public void solidario() {
+	System.out.println("Solidario");
+} </s>
+
+// A function that prints Atractivo Justo Irremediable Entusiasta
+public void atractivoJustoIrremediableEntusiasta() {
+	System.out.println("Atractivo Justo Irremediable Entusiasta");
+} </s>
+
+// A function that prints Inteligente
+public void inteligente() {
+	System.out.println("Inteligente");
+} </s>
+
+// A function that prints Magnífico
+public void magnifico() {
+	System.out.println("Magnífico");
+} </s>
+
+// A function that prints Humanitario
+public void humanitario() {
+	System.out.println("Humanitario");
+} </s>
+
+// A function that prints Formidable
+public void formidable() {
+	System.out.println("Formidable");
+} </s>
+
+// A function that prints Empático Virtuoso Intelectual Buenas noches Amistoso
+public void empaticoVirtuosoIntelectualBuenasNochesAmistoso() {
+	System.out.println("Empático Virtuoso Intelectual Buenas noches Amistoso");
+} </s>
+
+// A function that prints Resplandeciente
+public void resplandeciente() {
+	System.out.println("Resplandeciente");
+} </s>
+
+// A function that prints Significativo
+public void significativo() {
+	System.out.println("Significativo");
+} </s>
+
+// A function that prints Cuidado Determinante Humilde Perspicaz
+public void cuidadoDeterminanteHumildePerspicaz() {
+	System.out.println("Cuidado Determinante Humilde Perspicaz");
+} </s>
+
+// A function that prints Cercano
+public void cercano() {
+	System.out.println("Cercano");
+} </s>
+
+// A function that prints Familiar
+public void familiar() {
+	System.out.println("Familiar");
+} </s>
+
